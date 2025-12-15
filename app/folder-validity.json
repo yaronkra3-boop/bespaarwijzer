@@ -1,0 +1,22 @@
+{
+  "Dirk": {
+    "start_date": "2025-12-10",
+    "end_date": "2025-12-16"
+  },
+  "Hoogvliet": {
+    "start_date": "2025-12-15",
+    "end_date": "2025-12-21"
+  },
+  "Albert Heijn": {
+    "start_date": "2025-12-13",
+    "end_date": "2025-12-19"
+  },
+  "Jumbo": {
+    "start_date": "2025-12-10",
+    "end_date": "2025-12-16"
+  },
+  "Lidl": {
+    "start_date": "2025-12-11",
+    "end_date": "2025-12-21"
+  }
+}

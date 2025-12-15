@@ -1,0 +1,4515 @@
+{
+  "supermarket": "Dirk",
+  "folder_week": "week-50-2025",
+  "extracted_at": "2025-12-14T11:17:49.872287",
+  "source_url": "https://www.dirk.nl/aanbiedingen",
+  "product_count": 133,
+  "products": [
+    {
+      "id": 132704,
+      "product_id": 100444,
+      "name": "De Vleeschmeesters Varkenshaas culinair",
+      "brand": "Vleeschmeesters",
+      "packaging": "Per stuk.",
+      "unit_size": "300 g",
+      "weight": "",
+      "offer_price": 3.99,
+      "normal_price": 5.89,
+      "discount_text": "VR, ZA & ZO_actie",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/0/7/2/3/1/Varkenshaas culinair_639003744499083932.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/228999_1_459349_638883399423168985.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/varkensvlees/de-vleeschmeesters-varkenshaas-culinair/100444",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-14T23:59:00.000Z",
+      "category": "Vlees & vis/Varkensvlees",
+      "department": "Vlees & vis",
+      "webgroup": "Varkensvlees",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132705,
+      "product_id": 120119,
+      "name": "Feest schnitt",
+      "brand": "",
+      "packaging": "Per stuk. OP=OP",
+      "unit_size": "Per stuk",
+      "weight": "",
+      "offer_price": 4.99,
+      "normal_price": 4.99,
+      "discount_text": "VR, ZA & ZO_actie",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/0/7/2/3/1/Feest schnitt_639003746931013819.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/246192_1_483871_639005214341680208.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/brood-beleg-koek/vers-klein-gebak/feest-schnitt/120119",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-14T23:59:00.000Z",
+      "category": "Brood, beleg & koek/Vers klein gebak",
+      "department": "Brood, beleg & koek",
+      "webgroup": "Vers klein gebak",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132706,
+      "product_id": 114682,
+      "name": "Premier Zeeuwse mosselen",
+      "brand": "Premier",
+      "packaging": "Per bak. ",
+      "unit_size": "1 kg",
+      "weight": "",
+      "offer_price": 2.99,
+      "normal_price": 5.49,
+      "discount_text": "VR, ZA & ZO_actie",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/0/7/2/3/1/Premier Zeeuwse mosselen_639003747321090546.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/234018_1_476019_638949960269319227.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/vis/premier-zeeuwse-mosselen/114682",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-14T23:59:00.000Z",
+      "category": "Vlees & vis/Vis",
+      "department": "Vlees & vis",
+      "webgroup": "Vis",
+      "variants": [],
+      "logos": [
+        {
+          "name": "MSC Vis",
+          "image_url": "https://web-fileserver.dirk.nl/logos/8bd1dff2-494f-4755-843f-f2df1a54a241.png",
+          "link": null
+        },
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132707,
+      "product_id": 101870,
+      "name": "Verspakket soep",
+      "brand": "",
+      "packaging": "Per pakket.",
+      "unit_size": "Per stuk",
+      "weight": "",
+      "offer_price": 2.99,
+      "normal_price": 3.89,
+      "discount_text": "VR, ZA & ZO_actie",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/0/7/2/3/1/Verspakket soep_639003746849613116.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/179061_1_460682_638935248890456984.png",
+        "https://web-fileserver.dirk.nl/artikelen/224562_1_460681_638935250352370898.png",
+        "https://web-fileserver.dirk.nl/artikelen/224564_1_460683_638810232816711581.png",
+        "https://web-fileserver.dirk.nl/artikelen/224581_1_460774_638810232832911960.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/maaltijden-salades-tapas/verse-maaltijden/verspakket-soep/101870",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-14T23:59:00.000Z",
+      "category": "Maaltijden, salades & tapas/Verse maaltijden",
+      "department": "Maaltijden, salades & tapas",
+      "webgroup": "Verse maaltijden",
+      "variants": [
+        "Verspakket erwtensoep",
+        "Verspakket pompoensoep",
+        "Verspakket Tomatensoep",
+        "Verspakket Mosterdsoep"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132708,
+      "product_id": null,
+      "name": "Daily Chef verse pizza ",
+      "brand": "",
+      "packaging": "Per stuk 405 - 539 gram.",
+      "unit_size": "",
+      "weight": "",
+      "offer_price": 3.99,
+      "normal_price": 5.65,
+      "discount_text": "VR, ZA & ZO_actie",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/0/7/2/3/1/Daily Chef verse pizza 1_639003747569831736.png",
+      "product_images": [],
+      "product_url": "",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-14T23:59:00.000Z",
+      "category": "",
+      "department": "",
+      "webgroup": "",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132709,
+      "product_id": 14765,
+      "name": "Gallo Family",
+      "brand": "Gallo",
+      "packaging": "Fles 75 cl.",
+      "unit_size": "750 ml",
+      "weight": "",
+      "offer_price": 4.99,
+      "normal_price": 6.65,
+      "discount_text": "VR, ZA & ZO_actie",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/0/7/2/3/1/Gallo Family_639003749728216760.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/170056_1_145355_638294410327948463.png",
+        "https://web-fileserver.dirk.nl/artikelen/170057_1_145356_638294410338520822.png",
+        "https://web-fileserver.dirk.nl/artikelen/170059_1_246199_638294410347317743.png",
+        "https://web-fileserver.dirk.nl/artikelen/170063_1_337121_638294410356217886.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/wijn/gallo-family/14765",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-14T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Wijn",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Wijn",
+      "variants": [
+        "Gallo Family merlot",
+        "Gallo Family sauvignon blanc",
+        "Gallo Family grenache rose",
+        "Gallo Family moscato"
+      ],
+      "logos": [
+        {
+          "name": "Nix 18",
+          "image_url": "https://web-fileserver.dirk.nl/logos/80f2face-7c97-4a82-b016-6c5ed71e8c99.png",
+          "link": null
+        },
+        {
+          "name": "DGH Brons 7,5",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dd9c03f1-6571-490b-a8a3-90cd41a9c3f6.png",
+          "link": null
+        },
+        {
+          "name": "DGH Zilver 8-",
+          "image_url": "https://web-fileserver.dirk.nl/logos/6e992082-6948-442a-9959-911d68c8cad7.png",
+          "link": null
+        },
+        {
+          "name": "DGH Brons 7+",
+          "image_url": "https://web-fileserver.dirk.nl/logos/c1c8ca93-8779-4d66-86d0-d4ad3fe12a84.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132710,
+      "product_id": 83008,
+      "name": "Los Taqueros empanadas",
+      "brand": "Los Taqueros",
+      "packaging": "Pak 10 stuks. OP=OP",
+      "unit_size": "200 g",
+      "weight": "10 stuks",
+      "offer_price": 2.49,
+      "normal_price": 2.49,
+      "discount_text": "VR, ZA & ZO_actie",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/1/7/2/3/1/Los Taqueros empanadas_639003746745427517.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/144231_1_443670_638312322395827448.png",
+        "https://web-fileserver.dirk.nl/artikelen/144232_1_443671_638312322406947080.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/maaltijden-salades-tapas/tapas/los-taqueros-empanadas/83008",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-14T23:59:00.000Z",
+      "category": "Maaltijden, salades & tapas/Tapas",
+      "department": "Maaltijden, salades & tapas",
+      "webgroup": "Tapas",
+      "variants": [
+        "Los Taqueros Empanadas gekruide gehakt 10 stuks",
+        "Los Taqueros Empanadas gekruide kip 10 stuks"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132578,
+      "product_id": 57949,
+      "name": "Avocado's ready to eat",
+      "brand": "Eat Me",
+      "packaging": "Schaal 2 stuks.",
+      "unit_size": "2 stuks",
+      "weight": "",
+      "offer_price": 1.49,
+      "normal_price": 2.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/7/5/2/3/1/Avocado’s ready to eat_639003678658588847.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/180005_1_248060_638415117419893494.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/fruit/avocado-s-ready-to-eat/57949",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Fruit",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Fruit",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132580,
+      "product_id": 4511,
+      "name": "Rode snoeptomaten",
+      "brand": "1 de Beste",
+      "packaging": "Per bak.",
+      "unit_size": "Per schaal",
+      "weight": "500 gram",
+      "offer_price": 1.99,
+      "normal_price": 2.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/8/5/2/3/1/Rode snoeptomaten_639003684131206451.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/163787_1_268631_638320303343584535.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/groente/rode-snoeptomaten/4511",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Groente",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Groente",
+      "variants": [],
+      "logos": [
+        {
+          "name": "1 DE BESTE (VERSIE 2018)",
+          "image_url": "https://web-fileserver.dirk.nl/logos/81054b94-68db-4d5d-9ca0-392e8070401e.png",
+          "link": "https://www.dirk.nl/meer/inspiratie/1-de-beste"
+        }
+      ]
+    },
+    {
+      "id": 132581,
+      "product_id": 41475,
+      "name": "Zoete puntpaprika's",
+      "brand": "",
+      "packaging": "Per zak.",
+      "unit_size": "500 g",
+      "weight": "",
+      "offer_price": 1.49,
+      "normal_price": 1.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/8/5/2/3/1/Zoete puntpaprika’s_639003685115617223.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/244888_1_394551_638989821870259601.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/groente/zoete-puntpaprika-s/41475",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Groente",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Groente",
+      "variants": [],
+      "logos": [
+        {
+          "name": "1 DE BESTE (VERSIE 2018)",
+          "image_url": "https://web-fileserver.dirk.nl/logos/81054b94-68db-4d5d-9ca0-392e8070401e.png",
+          "link": "https://www.dirk.nl/meer/inspiratie/1-de-beste"
+        }
+      ]
+    },
+    {
+      "id": 132609,
+      "product_id": 79371,
+      "name": "Amogusti olijven",
+      "brand": "Amogusti",
+      "packaging": "Blik 200 gram.",
+      "unit_size": "200 g",
+      "weight": "",
+      "offer_price": 0.79,
+      "normal_price": 1.15,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/0/6/2/3/1/Amogusti olijven_639003733456822881.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/193017_1_248494_638542299393873484.png",
+        "https://web-fileserver.dirk.nl/artikelen/193043_1_439469_638542299809023916.png",
+        "https://web-fileserver.dirk.nl/artikelen/193018_1_248495_638542305753943577.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/groenteconserven/amogusti-olijven/79371",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Groenteconserven",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Groenteconserven",
+      "variants": [
+        "Amogusti Olijven gevuld met citroen",
+        "Amogusti Olijven gevuld met ansjovis",
+        "Amogusti Olijven gevuld met tonijn"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132658,
+      "product_id": 108146,
+      "name": "1 de Beste Hollandse aardappelen",
+      "brand": "1 de Beste",
+      "packaging": "Zak 1 kilo.",
+      "unit_size": "1 kg",
+      "weight": "",
+      "offer_price": 0.79,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/5/6/2/3/1/Hollandse aardappelen-1_639003741889174828.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/199723_1_467262_638614813175001342.png",
+        "https://web-fileserver.dirk.nl/artikelen/199724_1_467263_638614812972936179.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/aardappelen/1-de-beste-hollandse-aardappelen/108146",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Aardappelen",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Aardappelen",
+      "variants": [
+        "1 de Beste Aardappelen kruimig",
+        "1 de Beste Aardappelen vastkokend"
+      ],
+      "logos": [
+        {
+          "name": "1 DE BESTE (VERSIE 2018)",
+          "image_url": "https://web-fileserver.dirk.nl/logos/81054b94-68db-4d5d-9ca0-392e8070401e.png",
+          "link": "https://www.dirk.nl/meer/inspiratie/1-de-beste"
+        },
+        {
+          "name": "Planet proof",
+          "image_url": "https://web-fileserver.dirk.nl/logos/6257fbfa-2afa-4d40-bf19-c5a8037652a5.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/planetproof"
+        }
+      ]
+    },
+    {
+      "id": 132660,
+      "product_id": 76100,
+      "name": "Granaatappel",
+      "brand": "",
+      "packaging": null,
+      "unit_size": "Per stuk",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.29,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/6/6/2/3/1/Granaatappel_639003741308508602.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/242699_1_434250_638955102247357748.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/fruit/granaatappel/76100",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Fruit",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Fruit",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132664,
+      "product_id": 43418,
+      "name": "1 de Beste Fijngesneden andijvie ",
+      "brand": "1 de Beste",
+      "packaging": "Zak 250 gram.",
+      "unit_size": "250 g",
+      "weight": "",
+      "offer_price": 0.89,
+      "normal_price": 1.29,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/6/6/2/3/1/Fijngesneden andijvie_639003740834956630.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/120936_1_247510_637904835202076631.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/groente/1-de-beste-fijngesneden-andijvie/43418",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Groente",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Groente",
+      "variants": [],
+      "logos": [
+        {
+          "name": "NUTRI-SCORE A = GROEN",
+          "image_url": "https://web-fileserver.dirk.nl/logos/f2548751-3ebc-4f6d-bd2f-7fb42efb04ea.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/nutriscore"
+        },
+        {
+          "name": "1 DE BESTE (VERSIE 2018)",
+          "image_url": "https://web-fileserver.dirk.nl/logos/81054b94-68db-4d5d-9ca0-392e8070401e.png",
+          "link": "https://www.dirk.nl/meer/inspiratie/1-de-beste"
+        }
+      ]
+    },
+    {
+      "id": 132665,
+      "product_id": 4436,
+      "name": "1 de Beste Hollandse radijs",
+      "brand": "1 de Beste",
+      "packaging": "Per bos.",
+      "unit_size": "Per bos",
+      "weight": "",
+      "offer_price": 0.69,
+      "normal_price": 0.89,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/6/6/2/3/1/Hollandse radijs_639003741979535742.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/142_1_268393_638290701739169012.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/groente/1-de-beste-hollandse-radijs/4436",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Groente",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Groente",
+      "variants": [],
+      "logos": [
+        {
+          "name": "1 DE BESTE (VERSIE 2018)",
+          "image_url": "https://web-fileserver.dirk.nl/logos/81054b94-68db-4d5d-9ca0-392e8070401e.png",
+          "link": "https://www.dirk.nl/meer/inspiratie/1-de-beste"
+        },
+        {
+          "name": "Planet proof",
+          "image_url": "https://web-fileserver.dirk.nl/logos/6257fbfa-2afa-4d40-bf19-c5a8037652a5.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/planetproof"
+        }
+      ]
+    },
+    {
+      "id": 132666,
+      "product_id": 76205,
+      "name": "1 de Beste Limoenen",
+      "brand": "1 de Beste",
+      "packaging": "Net 3 stuks.",
+      "unit_size": "3 Stuks",
+      "weight": "",
+      "offer_price": 0.89,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/6/6/2/3/1/Limoenen_639003742628461717.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/183090_1_434526_638441013387717436.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/fruit/1-de-beste-limoenen/76205",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Fruit",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Fruit",
+      "variants": [],
+      "logos": [
+        {
+          "name": "1 DE BESTE (VERSIE 2018)",
+          "image_url": "https://web-fileserver.dirk.nl/logos/81054b94-68db-4d5d-9ca0-392e8070401e.png",
+          "link": "https://www.dirk.nl/meer/inspiratie/1-de-beste"
+        }
+      ]
+    },
+    {
+      "id": 132668,
+      "product_id": 3461,
+      "name": "Kramer zuurkool ",
+      "brand": "",
+      "packaging": "Zak 500 gram. ",
+      "unit_size": "500 g",
+      "weight": "",
+      "offer_price": 0.49,
+      "normal_price": 0.65,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/6/6/2/3/1/Hollandse aardappelen_639003741754124389.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/68859_1_24933_638331658813877042.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/groente/kramer-zuurkool/3461",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Groente",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Groente",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132669,
+      "product_id": 55252,
+      "name": "Mango",
+      "brand": "",
+      "packaging": "Per stuk.",
+      "unit_size": "Per stuk",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.79,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/6/6/2/3/1/Mango_639003742753480318.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/178547_1_247745_638744376827272462.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/fruit/mango/55252",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Fruit",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Fruit",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132670,
+      "product_id": 34317,
+      "name": "Poldergoud geschilde stamppot aardappelen ",
+      "brand": "Poldergoud",
+      "packaging": "Zak 1 kilo.",
+      "unit_size": "1 kg",
+      "weight": "",
+      "offer_price": 0.89,
+      "normal_price": 1.29,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/7/6/2/3/1/Poldergoud geschilde stamppot aardappelen_639003743116633458.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/216552_1_389345_638748867855924827.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/aardappelen/poldergoud-geschilde-stamppot-aardappelen/34317",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Aardappelen",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Aardappelen",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132694,
+      "product_id": 51069,
+      "name": "1 de Beste Blauwe bessen",
+      "brand": "1 de Beste",
+      "packaging": "Per bak.",
+      "unit_size": "300 g",
+      "weight": "",
+      "offer_price": 2.99,
+      "normal_price": 3.59,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/artikelen/214742_1_247739_638738337821912257.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/214742_1_247739_638738337821912257.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/fruit/1-de-beste-blauwe-bessen/51069",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Fruit",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Fruit",
+      "variants": [],
+      "logos": [
+        {
+          "name": "1 DE BESTE (VERSIE 2018)",
+          "image_url": "https://web-fileserver.dirk.nl/logos/81054b94-68db-4d5d-9ca0-392e8070401e.png",
+          "link": "https://www.dirk.nl/meer/inspiratie/1-de-beste"
+        }
+      ]
+    },
+    {
+      "id": 132695,
+      "product_id": null,
+      "name": "Hollandse aardbeien",
+      "brand": "",
+      "packaging": "Per bak.",
+      "unit_size": "",
+      "weight": "",
+      "offer_price": 4.49,
+      "normal_price": 0,
+      "discount_text": "ACTIE_",
+      "image_url": "",
+      "product_images": [],
+      "product_url": "",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "",
+      "department": "",
+      "webgroup": "",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132696,
+      "product_id": 4553,
+      "name": "Mandarijnen",
+      "brand": "",
+      "packaging": "Per kisje.",
+      "unit_size": "2,3 kg",
+      "weight": "",
+      "offer_price": 4.99,
+      "normal_price": 4.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/artikelen/213535_1_268720_638995719500182302.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/213535_1_268720_638995719500182302.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/fruit/mandarijnen/4553",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Fruit",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Fruit",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132697,
+      "product_id": 76573,
+      "name": "Mandarijnen",
+      "brand": "1 de Beste",
+      "packaging": "Per net.",
+      "unit_size": "1 kg",
+      "weight": "",
+      "offer_price": 1.89,
+      "normal_price": 1.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/artikelen/232847_1_435416_638890326390509495.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/232847_1_435416_638890326390509495.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/fruit/mandarijnen/76573",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Fruit",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Fruit",
+      "variants": [],
+      "logos": [
+        {
+          "name": "1 DE BESTE (VERSIE 2018)",
+          "image_url": "https://web-fileserver.dirk.nl/logos/81054b94-68db-4d5d-9ca0-392e8070401e.png",
+          "link": "https://www.dirk.nl/meer/inspiratie/1-de-beste"
+        }
+      ]
+    },
+    {
+      "id": 132699,
+      "product_id": 118682,
+      "name": "Biologsche sjalotten",
+      "brand": "Bio+",
+      "packaging": "Net 250 gram.",
+      "unit_size": "250 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.19,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/9/6/2/3/1/Biologsche sjalotten_639003740180092696.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/246190_1_481581_639005214342561329.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/groente/biologsche-sjalotten/118682",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Groente",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Groente",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Biologisch",
+          "image_url": "https://web-fileserver.dirk.nl/logos/b6ac34b5-7fcc-4372-a89e-1b1078febcf2.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132700,
+      "product_id": 119997,
+      "name": "Bloss appels",
+      "brand": "",
+      "packaging": "Schaal 4 stuks.",
+      "unit_size": "4 stuks",
+      "weight": "",
+      "offer_price": 0,
+      "normal_price": 2.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/artikelen/242694_1_483755_638954241886893543.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/242694_1_483755_638954241886893543.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/fruit/bloss-appels/119997",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Fruit",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Fruit",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132701,
+      "product_id": 121963,
+      "name": "Knoflook uien",
+      "brand": "",
+      "packaging": "Per net.",
+      "unit_size": "250 g",
+      "weight": "",
+      "offer_price": 2.49,
+      "normal_price": 2.69,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/artikelen/245726_1_486065_638996763250784082.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/245726_1_486065_638996763250784082.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/groente/knoflook-uien/121963",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Groente",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Groente",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132702,
+      "product_id": 66225,
+      "name": "Pijnboompitten",
+      "brand": "",
+      "packaging": "Schaal 100 gram.",
+      "unit_size": "100 g",
+      "weight": "",
+      "offer_price": 2.99,
+      "normal_price": 3.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/artikelen/205242_1_420009_638669367609168044.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/205242_1_420009_638669367609168044.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/gedroogd-fruit-noten/pijnboompitten/66225",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Gedroogd fruit & noten",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Gedroogd fruit & noten",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132703,
+      "product_id": 4645,
+      "name": "Snijbonen",
+      "brand": "",
+      "packaging": "Per zak.",
+      "unit_size": "400 g",
+      "weight": "",
+      "offer_price": 1.89,
+      "normal_price": 1.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/artikelen/226134_1_269375_638835897444781142.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/226134_1_269375_638835897444781142.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/aardappelen-groente-fruit/groente/snijbonen/4645",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Aardappelen, groente & fruit/Groente",
+      "department": "Aardappelen, groente & fruit",
+      "webgroup": "Groente",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132582,
+      "product_id": 62130,
+      "name": "Cocktail of grote garnalen ",
+      "brand": "Vis Marine",
+      "packaging": "Pak 100 gram. ",
+      "unit_size": "100 g",
+      "weight": "",
+      "offer_price": 1.99,
+      "normal_price": 2.35,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/8/5/2/3/1/Cocktail of grote garnalen_639003679117685131.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/210264_1_416014_638705631343493816.png",
+        "https://web-fileserver.dirk.nl/artikelen/206297_1_457381_638676471583055707.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/vis/cocktail-of-grote-garnalen/62130",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Vis",
+      "department": "Vlees & vis",
+      "webgroup": "Vis",
+      "variants": [
+        "Vis Marine Cocktailgarnalen met staart",
+        "Vis Marine Grote garnalen"
+      ],
+      "logos": [
+        {
+          "name": "ASC Kweekvis",
+          "image_url": "https://web-fileserver.dirk.nl/logos/8899ada0-77c3-42aa-b973-e031546c2230.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132583,
+      "product_id": 102576,
+      "name": "De Vleeschmeesters Angus of kip-kalkoen burgers",
+      "brand": "Vleeschmeesters",
+      "packaging": "Pak 2 stuks.",
+      "unit_size": "240 g",
+      "weight": "",
+      "offer_price": 3.49,
+      "normal_price": 3.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/8/5/2/3/1/Angus of kip-kalkoen burgers_639003672930446531.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/214106_1_462150_638733093654094212.png",
+        "https://web-fileserver.dirk.nl/artikelen/230125_1_478040_638866227878661302.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/gehakt-worst/de-vleeschmeesters-angus-of-kip-kalkoen-burgers/102576",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Gehakt & worst",
+      "department": "Vlees & vis",
+      "webgroup": "Gehakt & worst",
+      "variants": [
+        "Vleeschmeesters Actie angusburger",
+        "Vleeschmeesters Kip kalkoen burger 2 st."
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        },
+        {
+          "name": "Beter Leven 1",
+          "image_url": "https://web-fileserver.dirk.nl/logos/9dab2f4e-09aa-42f1-8990-34201efcbdf2.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132584,
+      "product_id": 99257,
+      "name": "De Vleeschmeesters Half-om-half gehakt of kip-kalkoen gehakt",
+      "brand": "Vleeschmeesters",
+      "packaging": "Per pak.",
+      "unit_size": "300 g",
+      "weight": "",
+      "offer_price": 2.99,
+      "normal_price": 2.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/8/5/2/3/1/Half-om-half gehakt of kip-kalkoen gehakt_639003681708725491.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/240317_1_457288_638920593326177701.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/gehakt-worst/de-vleeschmeesters-half-om-half-gehakt-of-kip-kalkoen-gehakt/99257",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Gehakt & worst",
+      "department": "Vlees & vis",
+      "webgroup": "Gehakt & worst",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132585,
+      "product_id": 99265,
+      "name": "De Vleeschmeesters Varkensfiletlappen",
+      "brand": "Vleeschmeesters",
+      "packaging": "Pak 2 stuks.",
+      "unit_size": "230 g",
+      "weight": "",
+      "offer_price": 2.29,
+      "normal_price": 2.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/8/5/2/3/1/Varkensfiletlappen_639003684726130270.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/228986_1_457296_638853168648357098.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/varkensvlees/de-vleeschmeesters-varkensfiletlappen/99265",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Varkensvlees",
+      "department": "Vlees & vis",
+      "webgroup": "Varkensvlees",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Beter Leven 1",
+          "image_url": "https://web-fileserver.dirk.nl/logos/9dab2f4e-09aa-42f1-8990-34201efcbdf2.png",
+          "link": null
+        },
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132588,
+      "product_id": 98076,
+      "name": "Unox Knaks",
+      "brand": "Unox",
+      "packaging": "Blik 400 gram.",
+      "unit_size": "400 g",
+      "weight": "",
+      "offer_price": 2.19,
+      "normal_price": 2.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/8/5/2/3/1/Unox Knaks_639003684633820167.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/167553_1_455542_638263901341903275.png",
+        "https://web-fileserver.dirk.nl/artikelen/167550_1_455539_638265017096577043.png",
+        "https://web-fileserver.dirk.nl/artikelen/227411_1_455540_638836032421569822.png",
+        "https://web-fileserver.dirk.nl/artikelen/183686_1_463269_638447088386414151.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/vleesconserven/unox-knaks/98076",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Vleesconserven",
+      "department": "Vlees & vis",
+      "webgroup": "Vleesconserven",
+      "variants": [
+        "Unox Knaks party",
+        "Unox Knaks",
+        "Unox Knaks mager",
+        "Unox Knaks vegetarisch"
+      ],
+      "logos": [
+        {
+          "name": "Beter Leven 1",
+          "image_url": "https://web-fileserver.dirk.nl/logos/9dab2f4e-09aa-42f1-8990-34201efcbdf2.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132589,
+      "product_id": 120765,
+      "name": "Van 't Huijs Luxe ragout",
+      "brand": "Van 't Huijs",
+      "packaging": "Blik 400 gram. OP=OP",
+      "unit_size": "400 g",
+      "weight": "",
+      "offer_price": 1.99,
+      "normal_price": 2.29,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/8/5/2/3/1/Luxe ragout_639003683616125253.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/245266_1_484641_639004362885978665.png",
+        "https://web-fileserver.dirk.nl/artikelen/245265_1_484640_639004363056948715.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/vleesconserven/van-t-huijs-luxe-ragout/120765",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Vleesconserven",
+      "department": "Vlees & vis",
+      "webgroup": "Vleesconserven",
+      "variants": [
+        "Van 't Huijs Ragout hert",
+        "Van 't Huijs Ragout eend"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132591,
+      "product_id": 91980,
+      "name": "Bifi XL of Jacks Links",
+      "brand": "Bifi",
+      "packaging": "Pak 4 stuks of 40 gram.. OP=OP",
+      "unit_size": "110 g",
+      "weight": "4 stuks",
+      "offer_price": 1.99,
+      "normal_price": 2.75,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/9/5/2/3/1/Bifi XL of Jacks Links_639003685852973733.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/160699_1_449750_638712156733655178.png",
+        "https://web-fileserver.dirk.nl/artikelen/244031_1_485017_639004363067944440.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/vleesconserven/bifi-xl-of-jacks-links/91980",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Vleesconserven",
+      "department": "Vlees & vis",
+      "webgroup": "Vleesconserven",
+      "variants": [
+        "Bifi Original xl 4 stuks",
+        "Jack Link's Beef jerky sweet and hot"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132614,
+      "product_id": 5524,
+      "name": "Slagershuis Gelderse rookworst",
+      "brand": "Slagerhuis",
+      "packaging": "Per stuk 225 gram.",
+      "unit_size": "225 g",
+      "weight": "",
+      "offer_price": 0.89,
+      "normal_price": 1.09,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/1/6/2/3/1/Slagershuis Gelderse rookworst_639003738474710371.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/1867_1_335646_638102664081013507.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/vleesconserven/slagershuis-gelderse-rookworst/5524",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Vleesconserven",
+      "department": "Vlees & vis",
+      "webgroup": "Vleesconserven",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132651,
+      "product_id": 69104,
+      "name": "1 de Beste Flinterdunne vleeswaren",
+      "brand": "1 de Beste",
+      "packaging": "Pak 100 gram.",
+      "unit_size": "100 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.79,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/5/6/2/3/1/Flinterdunne vleeswaren_639003740946097335.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/242120_1_423076_638943033318114580.png",
+        "https://web-fileserver.dirk.nl/artikelen/242119_1_423075_638943033295308749.png",
+        "https://web-fileserver.dirk.nl/artikelen/243446_1_423077_638961414337903211.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/vleeswaren/1-de-beste-flinterdunne-vleeswaren/69104",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Vleeswaren",
+      "department": "Vlees & vis",
+      "webgroup": "Vleeswaren",
+      "variants": [
+        "1 de Beste Achterham flinterdun",
+        "1 de Beste Kipfilet flinterdun",
+        "1 de Beste Salami flinterdun"
+      ],
+      "logos": [
+        {
+          "name": "Beter Leven 1",
+          "image_url": "https://web-fileserver.dirk.nl/logos/9dab2f4e-09aa-42f1-8990-34201efcbdf2.png",
+          "link": null
+        },
+        {
+          "name": "1 DE BESTE (VERSIE 2018)",
+          "image_url": "https://web-fileserver.dirk.nl/logos/81054b94-68db-4d5d-9ca0-392e8070401e.png",
+          "link": "https://www.dirk.nl/meer/inspiratie/1-de-beste"
+        },
+        {
+          "name": "NUTRI-SCORE D = ORANJE",
+          "image_url": "https://web-fileserver.dirk.nl/logos/1bc7f289-6413-4f94-8d11-995fc9151ce1.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/nutriscore"
+        },
+        {
+          "name": "NUTRI-SCORE E = ROOD",
+          "image_url": "https://web-fileserver.dirk.nl/logos/547aa8c4-b6c5-417c-acfa-72d9099f999d.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/nutriscore"
+        }
+      ]
+    },
+    {
+      "id": 132655,
+      "product_id": 58907,
+      "name": "Kips paté of leverworst",
+      "brand": "Kips",
+      "packaging": "Per stuk 120 - 125 gram (m.u.v. vega kleintjes smeerworst, paté filet americain of theeworst).",
+      "unit_size": "120 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 2.19,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/5/6/2/3/1/Kips paté of leverworst_639003743673800891.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/48894_1_412331_638136936922791718.png",
+        "https://web-fileserver.dirk.nl/artikelen/48896_1_412336_638136936937564642.png",
+        "https://web-fileserver.dirk.nl/artikelen/48883_1_404905_638136936725139087.png",
+        "https://web-fileserver.dirk.nl/artikelen/226840_1_416893_638830074192615630.png",
+        "https://web-fileserver.dirk.nl/artikelen/240377_1_423804_638944761392275161.png",
+        "https://web-fileserver.dirk.nl/artikelen/240378_1_423842_638944761318666489.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/vleeswaren/kips-pate-of-leverworst/58907",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Vleeswaren",
+      "department": "Vlees & vis",
+      "webgroup": "Vleeswaren",
+      "variants": [
+        "Kips Smeerleverworst kleintje",
+        "Kips Roompaté",
+        "Kips Paté creme mager",
+        "Kips Vega paté",
+        "Kips Snijworst vega",
+        "Kips Smeerworst vega tuinkruiden"
+      ],
+      "logos": [
+        {
+          "name": "Beter Leven 1",
+          "image_url": "https://web-fileserver.dirk.nl/logos/9dab2f4e-09aa-42f1-8990-34201efcbdf2.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132661,
+      "product_id": 120273,
+      "name": "Krokante visschnitzel ",
+      "brand": "",
+      "packaging": "Per stuk. OP=OP",
+      "unit_size": "100 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/6/6/2/3/1/Krokante visschnitzel_639003742442019652.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/246244_1_483911_639005304875540784.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/vis/krokante-visschnitzel/120273",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Vis",
+      "department": "Vlees & vis",
+      "webgroup": "Vis",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132662,
+      "product_id": 120355,
+      "name": "Mexicaans rulgehakt",
+      "brand": "Vegan",
+      "packaging": "Pak 175 gram. OP=OP",
+      "unit_size": "175 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/6/6/2/3/1/Mexicaans rulgehakt_639003742847041082.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/243505_1_484146_639004353708980887.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/vegetarisch/mexicaans-rulgehakt/120355",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Vegetarisch",
+      "department": "Vlees & vis",
+      "webgroup": "Vegetarisch",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132663,
+      "product_id": 120356,
+      "name": "Shoarma ",
+      "brand": "Vegan",
+      "packaging": "Pak 175 gram. OP=OP",
+      "unit_size": "175 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/6/6/2/3/1/Shoarma_639003743301136879.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/243506_1_484147_639004353673376683.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/vlees-vis/vegetarisch/shoarma/120356",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Vlees & vis/Vegetarisch",
+      "department": "Vlees & vis",
+      "webgroup": "Vegetarisch",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132594,
+      "product_id": 56367,
+      "name": "Duo Penotti hazelnoot & vanille",
+      "brand": "Penotti",
+      "packaging": "Per pot. OP=OP",
+      "unit_size": "800 g",
+      "weight": "",
+      "offer_price": 3.49,
+      "normal_price": 5.29,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/9/5/2/3/1/Duo Penotti hazelnoot & vanille_639003686682054678.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/246158_1_409707_639004440846552938.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/brood-beleg-koek/broodbeleg/duo-penotti-hazelnoot-vanille/56367",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Brood, beleg & koek/Broodbeleg",
+      "department": "Brood, beleg & koek",
+      "webgroup": "Broodbeleg",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132597,
+      "product_id": 1918,
+      "name": "Hero B'tween ",
+      "brand": "Hero",
+      "packaging": "Pak 4 of 6 stuks.",
+      "unit_size": "150 g",
+      "weight": "6 stuks",
+      "offer_price": 1.59,
+      "normal_price": 2.15,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/9/5/2/3/1/Hero B’tween_639003687213082727.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/227046_1_206766_638834985397685286.png",
+        "https://web-fileserver.dirk.nl/artikelen/194569_1_149732_638557077507142440.png",
+        "https://web-fileserver.dirk.nl/artikelen/194868_1_406497_638562262181248660.png",
+        "https://web-fileserver.dirk.nl/artikelen/194869_1_461859_638562264775066309.png",
+        "https://web-fileserver.dirk.nl/artikelen/192065_1_440507_638531121878103519.png",
+        "https://web-fileserver.dirk.nl/artikelen/218385_1_472443_638804874982490244.png",
+        "https://web-fileserver.dirk.nl/artikelen/180738_1_461858_638487696452142032.png",
+        "https://web-fileserver.dirk.nl/artikelen/192704_1_468284_638557713444077763.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/brood-beleg-koek/koekjes/hero-b-tween/1918",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Brood, beleg & koek/Koekjes",
+      "department": "Brood, beleg & koek",
+      "webgroup": "Koekjes",
+      "variants": [
+        "Hero B'tween melk chocolade repen 6 stuks",
+        "Hero B'tween kokos repen 6 stuks",
+        "Hero B'tween zero witte chocolade 6 stuks",
+        "Hero Btween proteinreep pinda & chocolade 4 stuks",
+        "Hero Btween zero granenreep melkchocolade 6 stuks",
+        "Hero Btween cookies cream 6 st.",
+        "Hero Btween proteinreep noten & karamel 4 st.",
+        "Hero Btween zero pinda & chocolade 6 st."
+      ],
+      "logos": [
+        {
+          "name": "Rainforest Alliance P&N",
+          "image_url": "https://web-fileserver.dirk.nl/logos/ebde8df0-126c-4d34-bc59-8ab7fa445eca.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/rainforest-alliance-keurmerk"
+        }
+      ]
+    },
+    {
+      "id": 132625,
+      "product_id": 40398,
+      "name": "Lotus Biscoff koek",
+      "brand": "Lotus",
+      "packaging": "Pak 150 of 250 gram (m.u.v. chocolade).",
+      "unit_size": "250 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.92,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/2/6/2/3/1/Lotus Biscoff koek_639003737271409035.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/230640_1_395137_638875902333054124.png",
+        "https://web-fileserver.dirk.nl/artikelen/230642_1_447619_638875902410983065.png",
+        "https://web-fileserver.dirk.nl/artikelen/182206_1_415150_638436051954049509.png",
+        "https://web-fileserver.dirk.nl/artikelen/182205_1_415149_638436042836968684.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/brood-beleg-koek/koekjes/lotus-biscoff-koek/40398",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Brood, beleg & koek/Koekjes",
+      "department": "Brood, beleg & koek",
+      "webgroup": "Koekjes",
+      "variants": [
+        "Lotus Biscoff speculoos",
+        "Lotus Biscoff speculoos original 10x2 st.",
+        "Lotus Speculoos vanille",
+        "Lotus Speculoos creme"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132644,
+      "product_id": 76073,
+      "name": "Bolletje knäckebröd",
+      "brand": "Bolletje",
+      "packaging": "Pak 240 - 265 gram.",
+      "unit_size": "265 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.81,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/4/6/2/3/1/Bolletje knäckebröd_639003733975939896.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/160182_1_433765_638193132214869689.png",
+        "https://web-fileserver.dirk.nl/artikelen/245887_1_433764_638999436328019142.png",
+        "https://web-fileserver.dirk.nl/artikelen/245886_1_433763_638999436342880223.png",
+        "https://web-fileserver.dirk.nl/artikelen/230988_1_455297_638880942634511378.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/brood-beleg-koek/beschuit-crackers/bolletje-knackebrod/76073",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Brood, beleg & koek/Beschuit & crackers",
+      "department": "Brood, beleg & koek",
+      "webgroup": "Beschuit & crackers",
+      "variants": [
+        "Bolletje Knackebrod vezelrijk volkoren",
+        "Bolletje Knackebrod luchtig sesam",
+        "Bolletje Knackebrod luchtig goudbros",
+        "Bolletje Knackebrod proteine"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132649,
+      "product_id": 100082,
+      "name": "Peijnenburg ontbijtkoek",
+      "brand": "Peijnenburg",
+      "packaging": "Pak 4 plakken. OP=OP",
+      "unit_size": "1 Stuks",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 2.09,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/4/6/2/3/1/Peijnenburg ontbijtkoek_639003738045322600.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/232979_1_458381_638913633943341151.png",
+        "https://web-fileserver.dirk.nl/artikelen/214583_1_476293_638756424391941650.png",
+        "https://web-fileserver.dirk.nl/artikelen/184243_1_462971_638471271628690039.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/brood-beleg-koek/ontbijtkoek/peijnenburg-ontbijtkoek/100082",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Brood, beleg & koek/Ontbijtkoek",
+      "department": "Brood, beleg & koek",
+      "webgroup": "Ontbijtkoek",
+      "variants": [
+        "Peijnenburg Ontbijtkoek parelkandij",
+        "Peijnenburg Ontbijtkoek naturel 4 st.",
+        "Peijnenburg Ontbijtkoek naturel 4-pack"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132650,
+      "product_id": 77110,
+      "name": "Theunisse kokosbrood",
+      "brand": "Theunisse",
+      "packaging": "Pak 275 gram.",
+      "unit_size": "275 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.95,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/5/6/2/3/1/Theunisse kokosbrood_639003739101375283.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/221376_1_436229_638780808356622165.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/brood-beleg-koek/broodbeleg/theunisse-kokosbrood/77110",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Brood, beleg & koek/Broodbeleg",
+      "department": "Brood, beleg & koek",
+      "webgroup": "Broodbeleg",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132652,
+      "product_id": 65413,
+      "name": "Ciabatta",
+      "brand": "",
+      "packaging": "Per stuk.",
+      "unit_size": "120 g",
+      "weight": "",
+      "offer_price": 0.49,
+      "normal_price": 0.79,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/5/6/2/3/1/Flinterdunne vleeswaren-1_639003741105357035.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/141945_1_418255_638255532970715247.png",
+        "https://web-fileserver.dirk.nl/artikelen/141949_1_418256_638255532993740235.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/brood-beleg-koek/broodjes-snacks/ciabatta/65413",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Brood, beleg & koek/Broodjes & snacks",
+      "department": "Brood, beleg & koek",
+      "webgroup": "Broodjes & snacks",
+      "variants": [
+        "Ciabatta donker",
+        "Ciabatta wit"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132653,
+      "product_id": 86286,
+      "name": "Kadir's Halal frikandelbroodje",
+      "brand": "",
+      "packaging": "Per stuk. ",
+      "unit_size": "Per stuk",
+      "weight": "",
+      "offer_price": 0.89,
+      "normal_price": 1.29,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/5/6/2/3/1/VERS AFBAK FRIKANDELBROODJE HALAL 1 STUKS_446903-57_small_639003743494419953.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/163874_1_446903_638255536985891874.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/brood-beleg-koek/broodjes-snacks/kadir-s-halal-frikandelbroodje/86286",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Brood, beleg & koek/Broodjes & snacks",
+      "department": "Brood, beleg & koek",
+      "webgroup": "Broodjes & snacks",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132654,
+      "product_id": 110886,
+      "name": "Kerstdonuts",
+      "brand": "Vers afbak",
+      "packaging": "OP=OP",
+      "unit_size": "70 g",
+      "weight": "",
+      "offer_price": 0.49,
+      "normal_price": 0.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/5/6/2/3/1/Kerstdonuts_639003742086906613.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/196665_1_470550_638689278511789239.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/brood-beleg-koek/broodjes-snacks/kerstdonuts/110886",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Brood, beleg & koek/Broodjes & snacks",
+      "department": "Brood, beleg & koek",
+      "webgroup": "Broodjes & snacks",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132656,
+      "product_id": 107023,
+      "name": "Mr. Big Mouth hamburgers of hotdog buns ",
+      "brand": "Mr. Big Mouth",
+      "packaging": "Pak 4 stuks.",
+      "unit_size": "4 stuks",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/5/6/2/3/1/Mr. Big Mouth hamburgers of hotdog buns_639003743035324292.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/188655_1_464214_638491149421804438.png",
+        "https://web-fileserver.dirk.nl/artikelen/188656_1_464215_638491152441637978.png",
+        "https://web-fileserver.dirk.nl/artikelen/217064_1_477074_638784105409615940.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/brood-beleg-koek/brood/mr-big-mouth-hamburgers-of-hotdog-buns/107023",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Brood, beleg & koek/Brood",
+      "department": "Brood, beleg & koek",
+      "webgroup": "Brood",
+      "variants": [
+        "Mr. Big Mouth Hamburger bun multiseeds",
+        "MR BIG MOUTH Hamburger bun brioche 4 st.",
+        "Mr. Big Mouth Hotdog buns"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132596,
+      "product_id": 113549,
+      "name": "Crème brûlée of cheesecake dessert",
+      "brand": "Bonne Maman",
+      "packaging": "Pak 2 stuks. OP=OP",
+      "unit_size": "200 g",
+      "weight": "2 stuks",
+      "offer_price": 1.99,
+      "normal_price": 1.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/9/5/2/3/1/Crème brûlée of cheesecake dessert_639003686190281161.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/246189_1_474173_639005214384360822.png",
+        "https://web-fileserver.dirk.nl/artikelen/223737_1_248169_638799777833398168.png",
+        "https://web-fileserver.dirk.nl/artikelen/223738_1_416699_638799777832558515.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/toetjes/creme-br-lee-of-cheesecake-dessert/113549",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Toetjes",
+      "department": "Zuivel & kaas",
+      "webgroup": "Toetjes",
+      "variants": [
+        "Bonne Maman Creme brulee 2 stuks",
+        "Oreo Cheesecake 2 stuks",
+        "Toblerone Cheesecake 2 stuks"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132610,
+      "product_id": 114582,
+      "name": "Campina room culinair",
+      "brand": "Campina",
+      "packaging": "Pak 200 ml.",
+      "unit_size": "200 ml",
+      "weight": "",
+      "offer_price": 0.79,
+      "normal_price": 1.24,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/1/6/2/3/1/Campina room culinair_639003734100675377.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/217425_1_475403_638767020602045032.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/slagroom-kookroom/campina-room-culinair/114582",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Slagroom & kookroom",
+      "department": "Zuivel & kaas",
+      "webgroup": "Slagroom & kookroom",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132611,
+      "product_id": 44849,
+      "name": "Globemilk barista melk",
+      "brand": "Globemilk",
+      "packaging": "Pak 1 liter.",
+      "unit_size": "1 liter",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.69,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/1/6/2/3/1/Globemilk barista melk_639003736642853421.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/182850_1_397896_638439555443582983.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/melk-karnemelk/globemilk-barista-melk/44849",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Melk & karnemelk",
+      "department": "Zuivel & kaas",
+      "webgroup": "Melk & karnemelk",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132636,
+      "product_id": 71230,
+      "name": "Chovi allioli ",
+      "brand": "Chovi",
+      "packaging": "Kuip 180 ml.",
+      "unit_size": "180 ml",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.25,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/3/6/2/3/1/Chovi allioli_639003734294669539.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/242208_1_426466_638944113254457814.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/overige-kazen/chovi-allioli/71230",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Overige kazen",
+      "department": "Zuivel & kaas",
+      "webgroup": "Overige kazen",
+      "variants": [],
+      "logos": [
+        {
+          "name": "DIRK BLIJFT PRIJZEN VERLAGEN",
+          "image_url": "https://web-fileserver.dirk.nl/logos/a19a1a6d-86cd-4847-a0c4-b88faabbe5d3.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132637,
+      "product_id": 107424,
+      "name": "Chovi allioli sriracha",
+      "brand": "Chovi",
+      "packaging": "Kuip 150  ml. ",
+      "unit_size": "150 ml",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.89,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/3/6/2/3/1/Chovi allioli sriracha_639003734378615901.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/187297_1_466205_638497218283209053.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/overige-kazen/chovi-allioli-sriracha/107424",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Overige kazen",
+      "department": "Zuivel & kaas",
+      "webgroup": "Overige kazen",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132638,
+      "product_id": 19093,
+      "name": "Eru cheddar",
+      "brand": "ERU",
+      "packaging": "Pak 150 gram.",
+      "unit_size": "150 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.89,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/3/6/2/3/1/Eru cheddar_639003736328762295.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/14325_1_376671_637919200000192821.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/overige-kazen/eru-cheddar/19093",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Overige kazen",
+      "department": "Zuivel & kaas",
+      "webgroup": "Overige kazen",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132639,
+      "product_id": 5205,
+      "name": "Fristi",
+      "brand": "Fristi",
+      "packaging": "Pak 1 liter.",
+      "unit_size": "1 liter",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.97,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/3/6/2/3/1/Fristi_639003736548323490.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/81426_1_332115_638168067051398361.png",
+        "https://web-fileserver.dirk.nl/artikelen/81427_1_332116_638168067060313476.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/zuiveldranken/fristi/5205",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Zuiveldranken",
+      "department": "Zuivel & kaas",
+      "webgroup": "Zuiveldranken",
+      "variants": [
+        "Fristi Drinkyoghurt rood fruit",
+        "Fristi Drinkyoghurt rood fruit (zonder suiker)"
+      ],
+      "logos": [
+        {
+          "name": "Weidemelk",
+          "image_url": "https://web-fileserver.dirk.nl/logos/11ea66fc-cc12-423d-9ea9-68f9f3d66472.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/weidemelk"
+        },
+        {
+          "name": "UTZ",
+          "image_url": "https://web-fileserver.dirk.nl/logos/16cc0632-f5a1-4891-9763-f80e61c6ad6b.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132645,
+      "product_id": 103429,
+      "name": "Coolbest fruitdrink ",
+      "brand": "CoolBest",
+      "packaging": "Pak 1 liter (m.u.v. protein).",
+      "unit_size": "1 liter",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 2.19,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/4/6/2/3/1/Coolbest fruitdrink_639003734578160296.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/195134_1_462907_638568099693668008.png",
+        "https://web-fileserver.dirk.nl/artikelen/204941_1_462909_638665059559277967.png",
+        "https://web-fileserver.dirk.nl/artikelen/195135_1_462908_638568099669832001.png",
+        "https://web-fileserver.dirk.nl/artikelen/205307_1_462911_638669367663172621.png",
+        "https://web-fileserver.dirk.nl/artikelen/195137_1_462910_638568099656654335.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/zuiveldranken/coolbest-fruitdrink/103429",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Zuiveldranken",
+      "department": "Zuivel & kaas",
+      "webgroup": "Zuiveldranken",
+      "variants": [
+        "CoolBest Fruitdrink strawberry",
+        "CoolBest Fruitdrink pineapple",
+        "CoolBest Fruitdrink passionfruit",
+        "CoolBest Fruitdrink mango",
+        "CoolBest Fruitdrink orange"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132647,
+      "product_id": 10953,
+      "name": "Eru smeerkaas ",
+      "brand": "ERU",
+      "packaging": "Kuip 100 gram.",
+      "unit_size": "100 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.59,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/4/6/2/3/1/Eru smeerkaas_639003736234524279.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/242003_1_329736_638943033265165570.png",
+        "https://web-fileserver.dirk.nl/artikelen/242001_1_329684_638943033310429396.png",
+        "https://web-fileserver.dirk.nl/artikelen/5917_1_376669_637919199979856873.png",
+        "https://web-fileserver.dirk.nl/artikelen/242004_1_366412_638943033292397912.png",
+        "https://web-fileserver.dirk.nl/artikelen/242000_1_216710_638943030397079582.png",
+        "https://web-fileserver.dirk.nl/artikelen/242002_1_329734_638943033265110865.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/overige-kazen/eru-smeerkaas/10953",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Overige kazen",
+      "department": "Zuivel & kaas",
+      "webgroup": "Overige kazen",
+      "variants": [
+        "ERU Balans 15+ Naturel",
+        "ERU Smeerkaas Kids 30+",
+        "ERU Goudkuipje 48+ Peper",
+        "ERU Goudkuipje Sambal 45+",
+        "ERU Goudkuipje 48+ Naturel",
+        "ERU Prestige"
+      ],
+      "logos": [
+        {
+          "name": "DIRK BLIJFT PRIJZEN VERLAGEN",
+          "image_url": "https://web-fileserver.dirk.nl/logos/a19a1a6d-86cd-4847-a0c4-b88faabbe5d3.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132657,
+      "product_id": 55976,
+      "name": "The Flower Farm smeren zonder palmolie",
+      "brand": "Flowerfarm",
+      "packaging": "Kuip 225 gram.",
+      "unit_size": "225 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/5/6/2/3/1/The Flower Farm smeren zonder palmolie_639003739011341983.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/228359_1_408786_638845635314844399.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/boter-margarine/the-flower-farm-smeren-zonder-palmolie/55976",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Boter & margarine",
+      "department": "Zuivel & kaas",
+      "webgroup": "Boter & margarine",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132671,
+      "product_id": 14302,
+      "name": "Campina milde kwark",
+      "brand": "Campina",
+      "packaging": "Bak 500 gram. OP=OP",
+      "unit_size": "500 g",
+      "weight": "",
+      "offer_price": 0.89,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/7/6/2/3/1/Campina milde kwark v2_639003740275405973.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/198639_1_372793_638604363281898675.png",
+        "https://web-fileserver.dirk.nl/artikelen/198641_1_382866_638604363281883932.png",
+        "https://web-fileserver.dirk.nl/artikelen/206000_1_374737_638675367260163651.png",
+        "https://web-fileserver.dirk.nl/artikelen/198651_1_440120_638605287520235167.png",
+        "https://web-fileserver.dirk.nl/artikelen/198585_1_412395_638605284474457579.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/yoghurt-kwark-pap/campina-milde-kwark/14302",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Yoghurt, kwark & pap",
+      "department": "Zuivel & kaas",
+      "webgroup": "Yoghurt, kwark & pap",
+      "variants": [
+        "Campina Magere kwark naturel",
+        "Campina Volle milde kwark naturel",
+        "Campina Magere kwark met vanille",
+        "Campina Magere kwark banaan",
+        "Campina Magere kwark aardbei"
+      ],
+      "logos": [
+        {
+          "name": "Weidemelk",
+          "image_url": "https://web-fileserver.dirk.nl/logos/11ea66fc-cc12-423d-9ea9-68f9f3d66472.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/weidemelk"
+        },
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        },
+        {
+          "name": "Planet proof",
+          "image_url": "https://web-fileserver.dirk.nl/logos/6257fbfa-2afa-4d40-bf19-c5a8037652a5.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/planetproof"
+        }
+      ]
+    },
+    {
+      "id": 132673,
+      "product_id": 102515,
+      "name": "Kroon van Holland kaasplakken 48+",
+      "brand": "Kroon van Holland",
+      "packaging": "Pak 150 gram.",
+      "unit_size": "150 g",
+      "weight": "",
+      "offer_price": 1.69,
+      "normal_price": 2.39,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/7/6/2/3/1/Kroon van Holland kaasplakken 48+_639003742525247849.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/183858_1_461774_638447148363339687.png",
+        "https://web-fileserver.dirk.nl/artikelen/183859_1_461775_638447148447333267.png",
+        "https://web-fileserver.dirk.nl/artikelen/183860_1_461776_638447148435317941.png",
+        "https://web-fileserver.dirk.nl/artikelen/183861_1_461777_638447148379351941.png",
+        "https://web-fileserver.dirk.nl/artikelen/183862_1_461778_638447148389369114.png",
+        "https://web-fileserver.dirk.nl/artikelen/183863_1_461779_638447148395323001.png",
+        "https://web-fileserver.dirk.nl/artikelen/183864_1_461780_638447148414426002.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/kaas-gesneden/kroon-van-holland-kaasplakken-48/102515",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Kaas gesneden",
+      "department": "Zuivel & kaas",
+      "webgroup": "Kaas gesneden",
+      "variants": [
+        "Kroon van Holland Jonge kaas 48+ plakken",
+        "Kroon van Holland Jong belegen kaas 48+ plakken",
+        "Kroon van Holland Belegen kaas 48+ plakken",
+        "Kroon van Holland Extra belegen kaas 48+ plakken",
+        "Kroon van Holland Oude kaas 48+ plakken",
+        "Kroon van Holland Jong belegen komijn 48+ plakken",
+        "Kroon van Holland Komijn kaas oud 48+ plakken"
+      ],
+      "logos": [
+        {
+          "name": "Weidemelk",
+          "image_url": "https://web-fileserver.dirk.nl/logos/11ea66fc-cc12-423d-9ea9-68f9f3d66472.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/weidemelk"
+        },
+        {
+          "name": "Planet proof",
+          "image_url": "https://web-fileserver.dirk.nl/logos/6257fbfa-2afa-4d40-bf19-c5a8037652a5.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/planetproof"
+        }
+      ]
+    },
+    {
+      "id": 132675,
+      "product_id": 117086,
+      "name": "Uniekaas rasp ",
+      "brand": "Uniekaas",
+      "packaging": "Zak 200 of 250 gram. OP=OP",
+      "unit_size": "250 g",
+      "weight": "",
+      "offer_price": 1.99,
+      "normal_price": 1.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/7/6/2/3/1/Uniekaas rasp_639003743378347788.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/227112_1_477648_638871294294470810.png",
+        "https://web-fileserver.dirk.nl/artikelen/227113_1_477649_638871294333474589.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/zuivel-kaas/overige-kazen/uniekaas-rasp/117086",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Zuivel & kaas/Overige kazen",
+      "department": "Zuivel & kaas",
+      "webgroup": "Overige kazen",
+      "variants": [
+        "Uniekaas Rasp mild",
+        "Uniekaas Rasp pittig"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132577,
+      "product_id": 92529,
+      "name": "DeliciouS",
+      "brand": "Delicious",
+      "packaging": "Fles 75 cl.",
+      "unit_size": "750 ml",
+      "weight": "",
+      "offer_price": 2.99,
+      "normal_price": 3.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/7/5/2/3/1/DeliciouS_639003680597995976.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/170095_1_448448_638294412558204034.png",
+        "https://web-fileserver.dirk.nl/artikelen/170096_1_448449_638294412566013593.png",
+        "https://web-fileserver.dirk.nl/artikelen/170092_1_448445_638294412531592636.png",
+        "https://web-fileserver.dirk.nl/artikelen/170093_1_448446_638294412540173939.png",
+        "https://web-fileserver.dirk.nl/artikelen/170094_1_448447_638294412549130306.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/wijn/delicious/92529",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Wijn",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Wijn",
+      "variants": [
+        "Delicious Rose",
+        "Delicious Sauvignon blanc",
+        "Delicious Cabernet sauvignon",
+        "Delicious Chardonnay",
+        "Delicious Merlot"
+      ],
+      "logos": [
+        {
+          "name": "Nix 18",
+          "image_url": "https://web-fileserver.dirk.nl/logos/80f2face-7c97-4a82-b016-6c5ed71e8c99.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132592,
+      "product_id": 69181,
+      "name": "Coca-Cola",
+      "brand": "Coca-Cola",
+      "packaging": "Fles 1.5 liter.",
+      "unit_size": "4 x 1,5 liter",
+      "weight": "1.5 l",
+      "offer_price": 6.76,
+      "normal_price": 7.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/9/5/2/3/1/Coca-Cola_639003686041788668.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/84028_1_423249_638179444042961779.png",
+        "https://web-fileserver.dirk.nl/artikelen/246100_1_423251_639004332288619956.png",
+        "https://web-fileserver.dirk.nl/artikelen/84899_1_423255_638532849512915430.png",
+        "https://web-fileserver.dirk.nl/artikelen/116461_1_423254_638532846507862288.png",
+        "https://web-fileserver.dirk.nl/artikelen/199722_1_423252_638612148382747978.png",
+        "https://web-fileserver.dirk.nl/artikelen/115862_1_423253_638179443892830404.png",
+        "https://web-fileserver.dirk.nl/artikelen/183460_1_463629_638451417488287424.png",
+        "https://web-fileserver.dirk.nl/artikelen/183459_1_463628_638451417370335413.png",
+        "https://web-fileserver.dirk.nl/artikelen/183458_1_463627_638451417695297104.png",
+        "https://web-fileserver.dirk.nl/artikelen/189526_1_465287_638521413675359481.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/frisdranken/coca-cola/69181",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Frisdranken",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Frisdranken",
+      "variants": [
+        "Coca-Cola Regular",
+        "Coca-Cola Zero",
+        "Coca-Cola Zero caffeinevrij",
+        "Coca-Cola Zero",
+        "Coca-Cola Regular",
+        "Coca-Cola Light",
+        "Coca-Cola Zero cherry",
+        "Coca-Cola Vanille",
+        "Coca-Cola Cherry",
+        "Coca-Cola Zero caffeinevrij 4x 1.5 l"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132598,
+      "product_id": 104113,
+      "name": "Wicky ",
+      "brand": "Wicky",
+      "packaging": "Pakje 200 ml.",
+      "unit_size": "1,2 liter",
+      "weight": "20 cl",
+      "offer_price": 1.39,
+      "normal_price": 1.87,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/9/5/2/3/1/Wicky_639003689344102707.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/212916_1_462787_638727222760000781.png",
+        "https://web-fileserver.dirk.nl/artikelen/212515_1_462783_638726403534213635.png",
+        "https://web-fileserver.dirk.nl/artikelen/183888_1_462790_638447292489317284.png",
+        "https://web-fileserver.dirk.nl/artikelen/183885_1_462786_638447292509499025.png",
+        "https://web-fileserver.dirk.nl/artikelen/212918_1_462789_638727222712034309.png",
+        "https://web-fileserver.dirk.nl/artikelen/228710_1_462788_638847333639498506.png",
+        "https://web-fileserver.dirk.nl/artikelen/183884_1_462785_638447292520496619.png",
+        "https://web-fileserver.dirk.nl/artikelen/225064_1_477059_638814426381654703.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/vruchtensappen/wicky/104113",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Vruchtensappen",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Vruchtensappen",
+      "variants": [
+        "Wicky Aardbei 0% 6x20 cl",
+        "Wicky Aardbei 6x20 cl",
+        "Wicky Appel 0% 6x20 cl",
+        "Wicky Framboos 6x20 cl",
+        "Wicky Framboos 0% 6x20 cl",
+        "Wicky Fruit 0% 6x20 cl.",
+        "Wicky Sinaasappel 6x20 cl",
+        "Wicky Mango 0% 6x20 cl"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132599,
+      "product_id": 48945,
+      "name": "Zonnatura thee",
+      "brand": "Zonnatura",
+      "packaging": "Pak 20 stuks.",
+      "unit_size": "20 zakjes",
+      "weight": "20 zakjes",
+      "offer_price": 1.19,
+      "normal_price": 2.45,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/9/5/2/3/1/Zonnatura thee_639003689431514429.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/234823_1_402484_638882598419218572.png",
+        "https://web-fileserver.dirk.nl/artikelen/239076_1_408972_638901714562061287.png",
+        "https://web-fileserver.dirk.nl/artikelen/245402_1_408973_638990634630258015.png",
+        "https://web-fileserver.dirk.nl/artikelen/245403_1_408974_638990634645093174.png",
+        "https://web-fileserver.dirk.nl/artikelen/234839_1_408975_638882598419244974.png",
+        "https://web-fileserver.dirk.nl/artikelen/234861_1_413243_638882598481918854.png",
+        "https://web-fileserver.dirk.nl/artikelen/246187_1_421264_639005214342580919.png",
+        "https://web-fileserver.dirk.nl/artikelen/245404_1_421265_638990634779506873.png",
+        "https://web-fileserver.dirk.nl/artikelen/245405_1_421266_638990634659149097.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/thee/zonnatura-thee/48945",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Thee",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Thee",
+      "variants": [
+        "Zonnatura Biologische thee 100% kurkuma gember",
+        "Zonnatura Biologische kruidenthee kamille",
+        "Zonnatura Biologische kruidenthee brandnetel",
+        "Zonnatura Biologische kruidenthee venkel",
+        "Zonnatura Biologische kruidenthee munt",
+        "Zonnatura Biologische kruidenthee groene thee gember",
+        "Zonnatura Kruidenthee goede nachtrust 20 zakjes",
+        "Zonnatura Kruidenthee goedemorgen 20 zakjes",
+        "Zonnatura Kruidenthee natuurlijke stoelgang 20 zakjes"
+      ],
+      "logos": [
+        {
+          "name": "Biologisch",
+          "image_url": "https://web-fileserver.dirk.nl/logos/b6ac34b5-7fcc-4372-a89e-1b1078febcf2.png",
+          "link": null
+        },
+        {
+          "name": "Fairtrade",
+          "image_url": "https://web-fileserver.dirk.nl/logos/f3325d19-8d0c-4f53-a7eb-fafa93a767c6.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132600,
+      "product_id": 68221,
+      "name": "Crystal Clear",
+      "brand": "Crystal Clear",
+      "packaging": "Fles 1.5 liter.",
+      "unit_size": "1,5 liter",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 2.15,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/0/6/2/3/1/Crystal Clear v1_639003686288439521.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/70763_1_422206_638305527415249454.png",
+        "https://web-fileserver.dirk.nl/artikelen/70764_1_422207_638305527423620364.png",
+        "https://web-fileserver.dirk.nl/artikelen/72686_1_422208_638305527435526229.png",
+        "https://web-fileserver.dirk.nl/artikelen/212106_1_475513_638760714713704205.png",
+        "https://web-fileserver.dirk.nl/artikelen/212104_1_475443_638760714706832571.png",
+        "https://web-fileserver.dirk.nl/artikelen/212105_1_475445_638760714622071144.png",
+        "https://web-fileserver.dirk.nl/artikelen/212103_1_475442_638762451526648195.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/frisdranken/crystal-clear/68221",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Frisdranken",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Frisdranken",
+      "variants": [
+        "Crystal Clear Sparkling cranberry",
+        "Crystal Clear Sparkling lemon",
+        "Crystal Clear Sparkling peach",
+        "Crystal Clear Lemon-passie koolzuurvrij",
+        "Crystal Clear Framboos-bosbes koolzuurvrij",
+        "Crystal Clear Appel-peer koolzuurvrij",
+        "Crystal Clear Sinaasappel & mandarijn koolzuurvrij"
+      ],
+      "logos": [
+        {
+          "name": "DIRK BLIJFT PRIJZEN VERLAGEN",
+          "image_url": "https://web-fileserver.dirk.nl/logos/a19a1a6d-86cd-4847-a0c4-b88faabbe5d3.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132615,
+      "product_id": 85156,
+      "name": "Amstel Blond ",
+      "brand": "Amstel",
+      "packaging": "Blik 50 cl.",
+      "unit_size": "500 ml",
+      "weight": "",
+      "offer_price": 0.89,
+      "normal_price": 1.19,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/1/6/2/3/1/Amstel Blond_639003733608076837.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/244327_1_446238_638977710537491547.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/bier/amstel-blond/85156",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Bier",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Bier",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Nix 18",
+          "image_url": "https://web-fileserver.dirk.nl/logos/80f2face-7c97-4a82-b016-6c5ed71e8c99.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132616,
+      "product_id": 85154,
+      "name": "Amstel pils",
+      "brand": "Amstel",
+      "packaging": "Blik 50 cl.",
+      "unit_size": "500 ml",
+      "weight": "50 cl",
+      "offer_price": 18.96,
+      "normal_price": 25.15,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/1/6/2/3/1/Amstel pils_639003733551529594.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/210267_1_445983_638705622210465593.png",
+        "https://web-fileserver.dirk.nl/artikelen/192516_1_447107_638555538520824002.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/bier/amstel-pils/85154",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Bier",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Bier",
+      "variants": [
+        "Amstel Pilsener",
+        "Amstel Pilsener 24x50 cl"
+      ],
+      "logos": [
+        {
+          "name": "Nix 18",
+          "image_url": "https://web-fileserver.dirk.nl/logos/80f2face-7c97-4a82-b016-6c5ed71e8c99.png",
+          "link": null
+        },
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132617,
+      "product_id": 103891,
+      "name": "Appelsientje Fruitdrink",
+      "brand": "Appelsientje",
+      "packaging": "Pak 1 liter.",
+      "unit_size": "1 liter",
+      "weight": "",
+      "offer_price": 0.89,
+      "normal_price": 1.92,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/1/6/2/3/1/Appelsientje Fruitdrink_639003733703588008.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/181534_1_463067_638453136820582320.png",
+        "https://web-fileserver.dirk.nl/artikelen/181533_1_463066_638453136807513711.png",
+        "https://web-fileserver.dirk.nl/artikelen/181717_1_463070_638481747826532270.png",
+        "https://web-fileserver.dirk.nl/artikelen/181716_1_463069_638453136820535409.png",
+        "https://web-fileserver.dirk.nl/artikelen/227067_1_463068_638834997290687340.png",
+        "https://web-fileserver.dirk.nl/artikelen/214188_1_475424_638767794428871880.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/vruchtensappen/appelsientje-fruitdrink/103891",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Vruchtensappen",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Vruchtensappen",
+      "variants": [
+        "Appelsientje Fruitdrink Goudappeltje",
+        "Appelsientje Fruitdrink sinaasappel",
+        "Appelsientje Fruitdrink Fruitduifje",
+        "Appelsientje Fruitdrink Mango",
+        "Appelsientje Fruitdrink multifruit",
+        "Appelsientje Fruitdrink tomaat"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132618,
+      "product_id": 86686,
+      "name": "Dr. Pepper ",
+      "brand": "Dr Pepper",
+      "packaging": "Blik 33 cl.",
+      "unit_size": "330 ml",
+      "weight": "330ml",
+      "offer_price": 4.14,
+      "normal_price": 0.95,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/1/6/2/3/1/Dr. Pepper_639003734768106564.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/166226_1_448308_638497233464962459.png",
+        "https://web-fileserver.dirk.nl/artikelen/222127_1_477164_638893740419763537.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/frisdranken/dr-pepper/86686",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Frisdranken",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Frisdranken",
+      "variants": [
+        "Dr Pepper Regular",
+        "Dr Pepper Regular zero 6x330ml"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132619,
+      "product_id": 76998,
+      "name": "Sir James mocktail 0.0%",
+      "brand": "Sir James",
+      "packaging": "Fles 250 ml. OP=OP",
+      "unit_size": "250 ml",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.79,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/1/6/2/3/1/Sir James mocktail 0.0_639003738379552573.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/158348_1_248436_638191359751422627.png",
+        "https://web-fileserver.dirk.nl/artikelen/139501_1_248438_638199198356516645.png",
+        "https://web-fileserver.dirk.nl/artikelen/189839_1_465011_638506041195101110.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/aperitieven-mixen/sir-james-mocktail-0-0/76998",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Aperitieven & mixen",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Aperitieven & mixen",
+      "variants": [
+        "Sir James Mojito 0.0%",
+        "Sir James Spritz 0.0%",
+        "Sir James 101 Martini passionfruit 0.0%"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132620,
+      "product_id": 108603,
+      "name": "Sourcy Vitaminwater ",
+      "brand": "Sourcy",
+      "packaging": "Fles 500 ml.",
+      "unit_size": "500 ml",
+      "weight": "",
+      "offer_price": 0.89,
+      "normal_price": 1.69,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/2/6/2/3/1/Sourcy Vitaminwater_639003738742858983.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/190514_1_467086_638536941636830735.png",
+        "https://web-fileserver.dirk.nl/artikelen/190515_1_467087_638532786567481544.png",
+        "https://web-fileserver.dirk.nl/artikelen/190115_1_467088_638532726444102003.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/limonade/sourcy-vitaminwater/108603",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Limonade",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Limonade",
+      "variants": [
+        "Sourcy Vitaminwater braam-acai",
+        "Sourcy Vitaminwater framboos-granaatappel",
+        "Sourcy Vitaminwater mango-guave"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132621,
+      "product_id": 49707,
+      "name": "Stoney Creek",
+      "brand": "Stoney Creek",
+      "packaging": "Fles 187 ml. OP=OP",
+      "unit_size": "187 ml",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/2/6/2/3/1/Stoney Creek_639003738915555540.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/185385_1_402798_638460912681312601.png",
+        "https://web-fileserver.dirk.nl/artikelen/185388_1_402799_638460912648257324.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/wijn/stoney-creek/49707",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Wijn",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Wijn",
+      "variants": [
+        "Stoney Creek Chardonnay semillon",
+        "Stoney Creek Shiraz grenache petit verdot"
+      ],
+      "logos": [
+        {
+          "name": "Nix 18",
+          "image_url": "https://web-fileserver.dirk.nl/logos/80f2face-7c97-4a82-b016-6c5ed71e8c99.png",
+          "link": null
+        },
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132622,
+      "product_id": 70992,
+      "name": "Arizona",
+      "brand": "Arizona",
+      "packaging": "Fles 500 ml.",
+      "unit_size": "500 ml",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.45,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/2/6/2/3/1/Arizona_639003733878903135.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/171789_1_424108_638312518364173755.png",
+        "https://web-fileserver.dirk.nl/artikelen/74577_1_424109_638229628550203214.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/limonade/arizona/70992",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Limonade",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Limonade",
+      "variants": [
+        "Arizona Green tea",
+        "Arizona Peach"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132627,
+      "product_id": 58466,
+      "name": "Oasis",
+      "brand": "Oasis",
+      "packaging": "Blik 33 cl.",
+      "unit_size": "6 x 330 ml",
+      "weight": "33 cl",
+      "offer_price": 4.14,
+      "normal_price": 7.39,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/2/6/2/3/1/Oasis_639003737679057505.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/126942_1_412080_638247808970648591.png",
+        "https://web-fileserver.dirk.nl/artikelen/42461_1_412078_637191099837514906.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/frisdranken/oasis/58466",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Frisdranken",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Frisdranken",
+      "variants": [
+        "Oasis Tropical",
+        "Aardbei framboos 6x33 cl max. 144 blikken per klant"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132642,
+      "product_id": 13423,
+      "name": "Starbucks ijskoffie",
+      "brand": "Starbucks",
+      "packaging": "Beker 220 ml. ",
+      "unit_size": "220 ml",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.95,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/4/6/2/3/1/Starbucks ijskoffie_639003738833121632.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/217587_1_371796_638756400519607309.png",
+        "https://web-fileserver.dirk.nl/artikelen/205412_1_335361_638732208705066710.png",
+        "https://web-fileserver.dirk.nl/artikelen/205418_1_386827_638669991325590572.png",
+        "https://web-fileserver.dirk.nl/artikelen/222237_1_427441_638787648259786751.png",
+        "https://web-fileserver.dirk.nl/artikelen/214449_1_388950_638954199613330350.png",
+        "https://web-fileserver.dirk.nl/artikelen/244527_1_478042_638979312453577109.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/koffie-cacao/starbucks-ijskoffie/13423",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Koffie & cacao",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Koffie & cacao",
+      "variants": [
+        "Starbucks Cappuccino",
+        "Starbucks Discoveries caramel macchiato",
+        "Starbucks Vanilla bean macchiato",
+        "Starbucks Ijskoffie skinny latte",
+        "Starbucks Chilled classics white chocolate moccha",
+        "Starbucks Chilled coffee oat caramel"
+      ],
+      "logos": [
+        {
+          "name": "Fairtrade",
+          "image_url": "https://web-fileserver.dirk.nl/logos/f3325d19-8d0c-4f53-a7eb-fafa93a767c6.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132676,
+      "product_id": 22403,
+      "name": "Douwe Egberts Excellent snelfiltermaling",
+      "brand": "Douwe Egberts",
+      "packaging": "Pak 250 gram.",
+      "unit_size": "250 g",
+      "weight": "",
+      "offer_price": 4.49,
+      "normal_price": 5.89,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/7/6/2/3/1/Douwe Egberts Excellent snelfiltermaling_639003739745316037.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/207651_1_378080_638687430736275623.png",
+        "https://web-fileserver.dirk.nl/artikelen/207652_1_378082_638687430735434103.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/koffie-cacao/douwe-egberts-excellent-snelfiltermaling/22403",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Koffie & cacao",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Koffie & cacao",
+      "variants": [
+        "Douwe Egberts Filterkoffie excellent gold sterkte 5",
+        "Douwe Egberts Filterkoffie excellent mocca sterkte 7"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132677,
+      "product_id": 32814,
+      "name": "Douwe Egberts koffiebonen of pads",
+      "brand": "Douwe Egberts",
+      "packaging": "Pak 500 gram of 54 stuks (m.u.v. Excellent.).",
+      "unit_size": "54 stuks",
+      "weight": "",
+      "offer_price": 7.49,
+      "normal_price": 9.75,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/7/6/2/3/1/Douwe Egberts koffiepads_639003739901327269.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/195954_1_387490_638575131407679260.png",
+        "https://web-fileserver.dirk.nl/artikelen/195955_1_387493_638575131403701682.png",
+        "https://web-fileserver.dirk.nl/artikelen/193297_1_394432_638544027629119972.png",
+        "https://web-fileserver.dirk.nl/artikelen/56685_1_364200_638197426065056980.png",
+        "https://web-fileserver.dirk.nl/artikelen/183551_1_137436_638447070152456978.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/koffie-cacao/douwe-egberts-koffiebonen-of-pads/32814",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Koffie & cacao",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Koffie & cacao",
+      "variants": [
+        "Douwe Egberts Aroma Rood koffiepads familiepak",
+        "Douwe Egberts Intens Koffiepads familiepak",
+        "Douwe Egberts Intens koffiebonen",
+        "Douwe Egberts Decafé koffiebonen",
+        "Douwe Egberts Aroma Rood koffiebonen"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132678,
+      "product_id": 1225,
+      "name": "Douwe Egberts Excellent koffiebonen",
+      "brand": "Douwe Egberts",
+      "packaging": "Zak 500 gram.",
+      "unit_size": "500 g",
+      "weight": "",
+      "offer_price": 8.49,
+      "normal_price": 10.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/7/6/2/3/1/Douwe Egberts Excellent koffiebonen_639003739529473569.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/148367_1_140505_638197425741584484.png",
+        "https://web-fileserver.dirk.nl/artikelen/185858_1_364313_638464629641594489.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/koffie-cacao/douwe-egberts-excellent-koffiebonen/1225",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Koffie & cacao",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Koffie & cacao",
+      "variants": [
+        "Douwe Egberts Aroma Variaties Excellent koffiebonen",
+        "Douwe Egberts Aroma Variaties Mocca koffiebonen"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132679,
+      "product_id": 49525,
+      "name": "Douwe Egberts koffiecups",
+      "brand": "Douwe Egberts",
+      "packaging": "Per pak.",
+      "unit_size": "20 stuks",
+      "weight": "",
+      "offer_price": 3.99,
+      "normal_price": 5.79,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/7/6/2/3/1/Douwe Egberts koffiecups_639003739958640439.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/183564_1_402465_638447079978338702.png",
+        "https://web-fileserver.dirk.nl/artikelen/58073_1_385787_638318440325952279.png",
+        "https://web-fileserver.dirk.nl/artikelen/183563_1_385790_638447079261560857.png",
+        "https://web-fileserver.dirk.nl/artikelen/76619_1_425098_638318441543009459.png",
+        "https://web-fileserver.dirk.nl/artikelen/148364_1_425101_638318441552293566.png",
+        "https://web-fileserver.dirk.nl/artikelen/183930_1_425112_638448186616424166.png",
+        "https://web-fileserver.dirk.nl/artikelen/196916_1_467892_638581890420353472.png",
+        "https://web-fileserver.dirk.nl/artikelen/196915_1_467891_638581890426353601.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/koffie-cacao/douwe-egberts-koffiecups/49525",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Koffie & cacao",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Koffie & cacao",
+      "variants": [
+        "Douwe Egberts Lungo Original koffiecups voordeelpak",
+        "Douwe Egberts Espresso Krachtig koffiecups voordeelpak",
+        "Douwe Egberts Lungo Intens koffiecups voordeelpak",
+        "Douwe Egberts Koffiecups espresso 12 ristretto",
+        "Douwe Egberts Koffiecups lungo decaf sterkte 6",
+        "Douwe Egberts Koffiecups lungo extra intens 10",
+        "Douwe Egberts Koffiecups excellent gold",
+        "Douwe Egberts Koffiecups excellent mocca"
+      ],
+      "logos": [
+        {
+          "name": "UTZ",
+          "image_url": "https://web-fileserver.dirk.nl/logos/16cc0632-f5a1-4891-9763-f80e61c6ad6b.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132680,
+      "product_id": 20500,
+      "name": "Douwe Egberts oploskoffie Gold",
+      "brand": "Douwe Egberts",
+      "packaging": "Pot 200 gram.",
+      "unit_size": "200 g",
+      "weight": "",
+      "offer_price": 6.49,
+      "normal_price": 9.29,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/8/6/2/3/1/Douwe Egberts oploskoffie Gold_639003740710239550.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/200460_1_374571_638623344429194841.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/koffie-cacao/douwe-egberts-oploskoffie-gold/20500",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Koffie & cacao",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Koffie & cacao",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132681,
+      "product_id": 9492,
+      "name": "Amstel",
+      "brand": "Amstel",
+      "packaging": "Krat 24 flessen à 30.",
+      "unit_size": "24 x 300 ml",
+      "weight": "",
+      "offer_price": 11.89,
+      "normal_price": 15.85,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/8/6/2/3/1/Amstel, Grolsch of Jupiler 1_639003743907522734.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/244417_1_742140_638977713278744662.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/bier/amstel/9492",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Bier",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Bier",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Nix 18",
+          "image_url": "https://web-fileserver.dirk.nl/logos/80f2face-7c97-4a82-b016-6c5ed71e8c99.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132682,
+      "product_id": 8993,
+      "name": "Grolsch",
+      "brand": "Grolsch",
+      "packaging": "Krat 24 flessen à 30.",
+      "unit_size": "24 x 300 ml",
+      "weight": "",
+      "offer_price": 13.99,
+      "normal_price": 18.65,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/8/6/2/3/1/Amstel, Grolsch of Jupiler 2_639003743967792156.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/174005_1_360368_638332338238868172.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/bier/grolsch/8993",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Bier",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Bier",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Nix 18",
+          "image_url": "https://web-fileserver.dirk.nl/logos/80f2face-7c97-4a82-b016-6c5ed71e8c99.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132683,
+      "product_id": 9610,
+      "name": "Jupiler ",
+      "brand": "Jupiler",
+      "packaging": "Krat 24 flessen à 25.",
+      "unit_size": "24 x 250 ml",
+      "weight": "",
+      "offer_price": 13.85,
+      "normal_price": 18.46,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/8/6/2/3/1/Amstel, Grolsch of Jupiler 3_639003744046362122.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/239090_1_935340_638902452273708544.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/bier/jupiler/9610",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Bier",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Bier",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Nix 18",
+          "image_url": "https://web-fileserver.dirk.nl/logos/80f2face-7c97-4a82-b016-6c5ed71e8c99.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132684,
+      "product_id": 542,
+      "name": "Grolsch Beugel ",
+      "brand": "Grolsch",
+      "packaging": "Krat 16 à 45 cl.",
+      "unit_size": "16 x 450 ml",
+      "weight": "",
+      "offer_price": 13.99,
+      "normal_price": 18.65,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/8/6/2/3/1/Amstel, Grolsch of Jupiler 2_639003744132943745.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/174106_1_125792_638333976755180871.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/bier/grolsch-beugel/542",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Bier",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Bier",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Nix 18",
+          "image_url": "https://web-fileserver.dirk.nl/logos/80f2face-7c97-4a82-b016-6c5ed71e8c99.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132685,
+      "product_id": 1187,
+      "name": "Duvel of La Chouffe",
+      "brand": "La Chouffe",
+      "packaging": "4-pack fles à 33 cl. ",
+      "unit_size": "4 x 330 ml",
+      "weight": "",
+      "offer_price": 5.51,
+      "normal_price": 7.35,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/8/6/2/3/1/Duvel of La Chouffe 3_639003744355737242.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/230012_1_139420_638864667384548659.png",
+        "https://web-fileserver.dirk.nl/artikelen/77242_1_423930_638252102769596214.png",
+        "https://web-fileserver.dirk.nl/artikelen/238468_1_361513_638926608407094457.png",
+        "https://web-fileserver.dirk.nl/artikelen/230017_1_414101_638864670359547236.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/bier/duvel-of-la-chouffe/1187",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Bier",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Bier",
+      "variants": [
+        "La Chouffe Blond",
+        "Duvel Zwaar blond",
+        "La Chouffe Bok 6666 Belgisch bokbier",
+        "La Chouffe Cherry"
+      ],
+      "logos": [
+        {
+          "name": "Nix 18",
+          "image_url": "https://web-fileserver.dirk.nl/logos/80f2face-7c97-4a82-b016-6c5ed71e8c99.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132686,
+      "product_id": 67438,
+      "name": "Hertog Jan speciaalbier ",
+      "brand": "Hertog Jan",
+      "packaging": "6-pack fles à 30 cl. Prijsvoorbeeld: Hertog Jan Grand Prestige ",
+      "unit_size": "6 x 300 ml",
+      "weight": "",
+      "offer_price": 5.39,
+      "normal_price": 7.19,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/8/6/2/3/1/Hertog Jan speciaalbier 3_639003744224921252.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/194575_1_421090_638557077711962525.png",
+        "https://web-fileserver.dirk.nl/artikelen/118382_1_127097_638034138103203277.png",
+        "https://web-fileserver.dirk.nl/artikelen/242701_1_345481_638953650415514532.png",
+        "https://web-fileserver.dirk.nl/artikelen/160411_1_421107_638210602073733112.png",
+        "https://web-fileserver.dirk.nl/artikelen/194576_1_421108_638557077680279131.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/bier/hertog-jan-speciaalbier/67438",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Bier",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Bier",
+      "variants": [
+        "Hertog Jan Grand prestige",
+        "Hertog Jan Weizener",
+        "Hertog Jan Herfstbock",
+        "Hertog Jan Karakter",
+        "Hertog Jan Tripel"
+      ],
+      "logos": [
+        {
+          "name": "Nix 18",
+          "image_url": "https://web-fileserver.dirk.nl/logos/80f2face-7c97-4a82-b016-6c5ed71e8c99.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132687,
+      "product_id": 68287,
+      "name": "Lipton ice tea",
+      "brand": "Lipton",
+      "packaging": "Per fles.",
+      "unit_size": "1,5 liter",
+      "weight": "",
+      "offer_price": 1.49,
+      "normal_price": 2.59,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/8/6/2/3/1/Lipton ice tea_639003745652427238.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/73621_1_422540_638221635858902255.png",
+        "https://web-fileserver.dirk.nl/artikelen/74891_1_422537_638229637208991288.png",
+        "https://web-fileserver.dirk.nl/artikelen/117996_1_438845_638229637285427918.png",
+        "https://web-fileserver.dirk.nl/artikelen/166053_1_450572_638249265933939469.png",
+        "https://web-fileserver.dirk.nl/artikelen/159204_1_450574_638229637478608907.png",
+        "https://web-fileserver.dirk.nl/artikelen/197859_1_466858_638598534660671087.png",
+        "https://web-fileserver.dirk.nl/artikelen/225371_1_477222_638816931168929246.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/frisdranken/lipton-ice-tea/68287",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Frisdranken",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Frisdranken",
+      "variants": [
+        "Lipton Ice tea sparkling fles",
+        "Lipton Ice tea green fles",
+        "Lipton Ice tea green zero",
+        "Lipton Ice tea zero sparkling",
+        "Lipton Ice tea peach",
+        "Lipton Green tea strawberry",
+        "Lipton Ice tea green citrus zero sparkling"
+      ],
+      "logos": [
+        {
+          "name": "Rainforest Alliance P&N",
+          "image_url": "https://web-fileserver.dirk.nl/logos/ebde8df0-126c-4d34-bc59-8ab7fa445eca.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/rainforest-alliance-keurmerk"
+        }
+      ]
+    },
+    {
+      "id": 132693,
+      "product_id": 3826,
+      "name": "Douwe Egberts ",
+      "brand": "Douwe Egberts",
+      "packaging": "Per pak.",
+      "unit_size": "500 g",
+      "weight": "",
+      "offer_price": 6.99,
+      "normal_price": 8.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/9/6/2/3/1/Douwe Egberts_639003750193943570.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/149281_1_25640_638110314672772657.png",
+        "https://web-fileserver.dirk.nl/artikelen/62103_1_412170_637985890231720817.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/dranken-sap-koffie-thee/koffie-cacao/douwe-egberts/3826",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Dranken, sap, koffie & thee/Koffie & cacao",
+      "department": "Dranken, sap, koffie & thee",
+      "webgroup": "Koffie & cacao",
+      "variants": [
+        "Douwe Egberts Aroma Rood filterkoffie",
+        "Douwe Egberts Décafé filterkoffie"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132586,
+      "product_id": 25951,
+      "name": "Bertolli crema di balsamico of balsamico azijn",
+      "brand": "Bertolli",
+      "packaging": "Fles 250 ml of 260 gram.",
+      "unit_size": "250 ml",
+      "weight": "",
+      "offer_price": 2.49,
+      "normal_price": 4.09,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/8/5/2/3/1/Bertolli crema di balsamico of balsamico azijn_639003679029344840.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/193183_1_381696_638543082988925408.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/voorraadkast/olien-sauzen-mixen/bertolli-crema-di-balsamico-of-balsamico-azijn/25951",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Voorraadkast/Oliën, sauzen & mixen",
+      "department": "Voorraadkast",
+      "webgroup": "Oliën, sauzen & mixen",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132587,
+      "product_id": 12725,
+      "name": "Silvo kruiden of specerijen",
+      "brand": "Silvo",
+      "packaging": "Pot 4 - 83 gram (m.u.v. bio).",
+      "unit_size": "11 g",
+      "weight": "",
+      "offer_price": 1.19,
+      "normal_price": 2.59,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/8/5/2/3/1/Silvo kruiden of specerijen_639003684450587453.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/43708_1_369798_638318439689016399.png",
+        "https://web-fileserver.dirk.nl/artikelen/43666_1_148500_638318439079372014.png",
+        "https://web-fileserver.dirk.nl/artikelen/198022_1_148511_638598522571281700.png",
+        "https://web-fileserver.dirk.nl/artikelen/43662_1_148494_638318439060342048.png",
+        "https://web-fileserver.dirk.nl/artikelen/43679_1_148526_638318439127971693.png",
+        "https://web-fileserver.dirk.nl/artikelen/43686_1_148554_638318439176755897.png",
+        "https://web-fileserver.dirk.nl/artikelen/94341_1_148557_638318439187342764.png",
+        "https://web-fileserver.dirk.nl/artikelen/198224_1_148559_638598522595091920.png",
+        "https://web-fileserver.dirk.nl/artikelen/43684_1_148549_638318439157365729.png",
+        "https://web-fileserver.dirk.nl/artikelen/94342_1_148585_638318439250346358.png",
+        "https://web-fileserver.dirk.nl/artikelen/209532_1_473754_638701962959177577.png",
+        "https://web-fileserver.dirk.nl/artikelen/53144_1_148517_638318439107578340.png",
+        "https://web-fileserver.dirk.nl/artikelen/43675_1_148520_638318439117121431.png",
+        "https://web-fileserver.dirk.nl/artikelen/101222_1_148508_638318439088524404.png",
+        "https://web-fileserver.dirk.nl/artikelen/43664_1_148497_638318439070520447.png",
+        "https://web-fileserver.dirk.nl/artikelen/101144_1_148532_638318439147370973.png",
+        "https://web-fileserver.dirk.nl/artikelen/112842_1_343883_638318439555489377.png",
+        "https://web-fileserver.dirk.nl/artikelen/101145_1_148560_638318439206044200.png",
+        "https://web-fileserver.dirk.nl/artikelen/43685_1_148551_638318439167192936.png",
+        "https://web-fileserver.dirk.nl/artikelen/101147_1_148584_638318439241812435.png",
+        "https://web-fileserver.dirk.nl/artikelen/101146_1_148564_638318439216316692.png",
+        "https://web-fileserver.dirk.nl/artikelen/43711_1_400981_638318440542253236.png",
+        "https://web-fileserver.dirk.nl/artikelen/43699_1_223910_638318439374121157.png",
+        "https://web-fileserver.dirk.nl/artikelen/43709_1_400978_638318440523158268.png",
+        "https://web-fileserver.dirk.nl/artikelen/101148_1_148589_638318439259405010.png",
+        "https://web-fileserver.dirk.nl/artikelen/112985_1_148598_638318439285192831.png",
+        "https://web-fileserver.dirk.nl/artikelen/168136_1_434359_638266677686744804.png",
+        "https://web-fileserver.dirk.nl/artikelen/124457_1_434358_638236270274039937.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/voorraadkast/kruiden-specerijen/silvo-kruiden-of-specerijen/12725",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Voorraadkast/Kruiden & specerijen",
+      "department": "Voorraadkast",
+      "webgroup": "Kruiden & specerijen",
+      "variants": [
+        "Silvo Basilicum",
+        "Silvo Bieslook",
+        "Silvo Italiaanse kruiden",
+        "Silvo Knoflookpoeder",
+        "Silvo Oregano",
+        "Silvo Peterselie",
+        "Silvo Provencaalse kruiden",
+        "Silvo Rozemarijn",
+        "Silvo Tijm",
+        "Silvo Uienpoeder",
+        "Silvo Knoflook met rooksmaak",
+        "Silvo Dille",
+        "Silvo Dragon",
+        "Silvo Kervel",
+        "Silvo Korianderblad",
+        "Silvo Marjolein",
+        "Silvo Munt",
+        "Silvo Salieblad",
+        "Silvo Selderijblad",
+        "Silvo Aardappelkruiden",
+        "Silvo Hot cajun kruiden",
+        "Silvo Italiaanse kruiden natriumarm",
+        "Silvo Kipkruiden natriumarm",
+        "Silvo Mexicaanse kruiden natriumarm",
+        "Silvo Patatkruiden",
+        "Silvo Viskruiden",
+        "Silvo Zaatar kruiden",
+        "Silvo Harissa kruiden"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132590,
+      "product_id": 77498,
+      "name": "Zaanse mayonaise",
+      "brand": "Van Wijngaarden's",
+      "packaging": "Per knijpfles.",
+      "unit_size": "750 ml",
+      "weight": "",
+      "offer_price": 2.49,
+      "normal_price": 3.79,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/9/5/2/3/1/Zaanse mayonaise_639003685021524536.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/193211_1_425803_638543094507841869.png",
+        "https://web-fileserver.dirk.nl/artikelen/217814_1_425804_638757396878810549.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/voorraadkast/olien-sauzen-mixen/zaanse-mayonaise/77498",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Voorraadkast/Oliën, sauzen & mixen",
+      "department": "Voorraadkast",
+      "webgroup": "Oliën, sauzen & mixen",
+      "variants": [
+        "Van Wijngaarden's Mayonaise zaanse",
+        "Van Wijngaarden's Mayonaise zaanse halfvol"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132601,
+      "product_id": 119424,
+      "name": "Bertolli basis voor pastasaus",
+      "brand": "Bertolli",
+      "packaging": "Blik 400 gram. OP=OP",
+      "unit_size": "400 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/0/6/2/3/1/Bertolli basis voor pastasaus_639003685515828923.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/239102_1_482569_639004362997042739.png",
+        "https://web-fileserver.dirk.nl/artikelen/239103_1_482571_639004362999020319.png",
+        "https://web-fileserver.dirk.nl/artikelen/239104_1_482573_639004363053918683.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/voorraadkast/pasta-pasta-sauzen/bertolli-basis-voor-pastasaus/119424",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Voorraadkast/Pasta & pasta sauzen",
+      "department": "Voorraadkast",
+      "webgroup": "Pasta & pasta sauzen",
+      "variants": [
+        "Bertolli Basis voor pastasaus piccante",
+        "Bertolli Basis voor pastasaus tradizionale",
+        "Bertolli Basis voor pastasaus aglio"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132603,
+      "product_id": 94567,
+      "name": "Go-Tan atjar tjampoer speciale",
+      "brand": "Go-Tan",
+      "packaging": "Pot 340 gram.",
+      "unit_size": "340 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.89,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/0/6/2/3/1/Go-Tan atjar tjampoer speciale_639003686941407172.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/228796_1_450779_638850819263575142.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/voorraadkast/internationale-keuken/go-tan-atjar-tjampoer-speciale/94567",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Voorraadkast/Internationale keuken",
+      "department": "Voorraadkast",
+      "webgroup": "Internationale keuken",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132606,
+      "product_id": 64444,
+      "name": "Remia satésaus kant & klaar",
+      "brand": "Remia",
+      "packaging": "Kuip 325 gram. ",
+      "unit_size": "325 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/0/6/2/3/1/Remia satésaus kant & klaar_639003688563346446.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/209090_1_418843_638696154297548687.png",
+        "https://web-fileserver.dirk.nl/artikelen/192594_1_418844_638537106604043820.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/voorraadkast/olien-sauzen-mixen/remia-satesaus-kant-klaar/64444",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Voorraadkast/Oliën, sauzen & mixen",
+      "department": "Voorraadkast",
+      "webgroup": "Oliën, sauzen & mixen",
+      "variants": [
+        "Remia Satesaus kant en klaar",
+        "Remia Satesaus kant en klaar hot"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132608,
+      "product_id": 97093,
+      "name": "1 de Beste Risottorijst of snelkookrijst builtjes",
+      "brand": "1 de Beste",
+      "packaging": "Pak 400 gram of pak 4 x 75 gram. ",
+      "unit_size": "400 g",
+      "weight": "4 stuks",
+      "offer_price": 0.99,
+      "normal_price": 1.15,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/0/6/2/3/1/Risottorijst of snelkookrijst builtjes_639003738151294173.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/219351_1_450467_638767893504232465.png",
+        "https://web-fileserver.dirk.nl/artikelen/22500_1_398113_637828690176493783.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/voorraadkast/rijst-couscous-quinoa/1-de-beste-risottorijst-of-snelkookrijst-builtjes/97093",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Voorraadkast/Rijst, couscous & quinoa",
+      "department": "Voorraadkast",
+      "webgroup": "Rijst, couscous & quinoa",
+      "variants": [
+        "1 de Beste Risotto rijst",
+        "1 de Beste Snelkookrijst builtjes 4 stuks"
+      ],
+      "logos": [
+        {
+          "name": "1 DE BESTE (VERSIE 2018)",
+          "image_url": "https://web-fileserver.dirk.nl/logos/81054b94-68db-4d5d-9ca0-392e8070401e.png",
+          "link": "https://www.dirk.nl/meer/inspiratie/1-de-beste"
+        },
+        {
+          "name": "NUTRI-SCORE B = LICHT GROEN",
+          "image_url": "https://web-fileserver.dirk.nl/logos/0d1e5236-9f90-4fc5-81a1-b16d3e1eccd5.png",
+          "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/nutriscore"
+        }
+      ]
+    },
+    {
+      "id": 132612,
+      "product_id": 103099,
+      "name": "Honig maaltijdmix",
+      "brand": "Honig",
+      "packaging": "Pak 36 - 125 gram (m.u.v. voordeelpakken).",
+      "unit_size": "62 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.89,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/1/6/2/3/1/Honig maaltijdmix v2_639003736852492095.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/178927_1_248829_638433246213235269.png",
+        "https://web-fileserver.dirk.nl/artikelen/180956_1_462088_638424642545813757.png",
+        "https://web-fileserver.dirk.nl/artikelen/180742_1_462527_638446197442397432.png",
+        "https://web-fileserver.dirk.nl/artikelen/180961_1_462526_638467005962726053.png",
+        "https://web-fileserver.dirk.nl/artikelen/236069_1_467887_638882532358404566.png",
+        "https://web-fileserver.dirk.nl/artikelen/188791_1_466764_638523984459371563.png",
+        "https://web-fileserver.dirk.nl/artikelen/184936_1_464095_638477328434620952.png",
+        "https://web-fileserver.dirk.nl/artikelen/240196_1_468942_638919663236228976.png",
+        "https://web-fileserver.dirk.nl/artikelen/184935_1_464002_638454261276764957.png",
+        "https://web-fileserver.dirk.nl/artikelen/185146_1_464605_638485131924887854.png",
+        "https://web-fileserver.dirk.nl/artikelen/189822_1_464091_638518809217807423.png",
+        "https://web-fileserver.dirk.nl/artikelen/180791_1_248828_638433246213224868.png",
+        "https://web-fileserver.dirk.nl/artikelen/195854_1_464090_638574975365979794.png",
+        "https://web-fileserver.dirk.nl/artikelen/180967_1_462560_638519691259449805.png",
+        "https://web-fileserver.dirk.nl/artikelen/244263_1_482946_638974362507686567.png",
+        "https://web-fileserver.dirk.nl/artikelen/244264_1_482947_638974362367459651.png",
+        "https://web-fileserver.dirk.nl/artikelen/244262_1_482945_638974362396558474.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/voorraadkast/kruiden-specerijen/honig-maaltijdmix/103099",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Voorraadkast/Kruiden & specerijen",
+      "department": "Voorraadkast",
+      "webgroup": "Kruiden & specerijen",
+      "variants": [
+        "Honig Kruidenmix tagliatelle roomsaus",
+        "Honig Kruidenmix macaroni & spaghetti",
+        "Honig Kruidenmix lasagnesaus",
+        "Honig Kruidenmix chili con carne",
+        "Honig Kruidenmix spaghettisaus bolognese",
+        "Honig Kruidenmix nasi speciaal",
+        "Honig Kruidenmix lasagnesaus tradizionale",
+        "Honig Kruidenmix bami speciaal",
+        "Honig Kruidenmix hachee",
+        "Honig Kruidenmix boerenomelet",
+        "Honig Kruidenmix roerbakmie",
+        "Honig Kruidenmix kip kerrie",
+        "Honig Kruidenmix macaroni-stroganoff",
+        "Honig Kruidenmix italiaanse kruidensaus",
+        "Honig Bakplaat mix boontjes&gehaktballetjes",
+        "Honig Bakplaat mix mex. courgette & kip",
+        "Honig Bakplaat mix prov.broccoli&rundervink"
+      ],
+      "logos": [
+        {
+          "name": "DIRK BLIJFT PRIJZEN VERLAGEN",
+          "image_url": "https://web-fileserver.dirk.nl/logos/a19a1a6d-86cd-4847-a0c4-b88faabbe5d3.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132613,
+      "product_id": 86482,
+      "name": "Maggi jus",
+      "brand": "Maggi",
+      "packaging": "Zakje 18 - 29 gram.",
+      "unit_size": "18 g",
+      "weight": "",
+      "offer_price": 0.49,
+      "normal_price": 0.71,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/1/6/2/3/1/Maggi jus_639003737486248966.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/151499_1_447777_638186212917808436.png",
+        "https://web-fileserver.dirk.nl/artikelen/175333_1_441184_638354622258543644.png",
+        "https://web-fileserver.dirk.nl/artikelen/200689_1_448028_638626926572104757.png",
+        "https://web-fileserver.dirk.nl/artikelen/238749_1_480611_638960301514700505.png",
+        "https://web-fileserver.dirk.nl/artikelen/230185_1_480610_638912820260744746.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/voorraadkast/olien-sauzen-mixen/maggi-jus/86482",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Voorraadkast/Oliën, sauzen & mixen",
+      "department": "Voorraadkast",
+      "webgroup": "Oliën, sauzen & mixen",
+      "variants": [
+        "Maggi Mix voor jus rundvlees",
+        "Maggi Jus naturel",
+        "Maggi Jus pikant",
+        "Maggi Jus met uitjes",
+        "Maggi Jus voor stamppot"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132643,
+      "product_id": 101224,
+      "name": "XXL Nutrition reep of oat bar",
+      "brand": "XXL NUTRITION",
+      "packaging": "Per stuk 50 - 100 gram.",
+      "unit_size": "100 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.95,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/4/6/2/3/1/XXL Nutrition reep of oat bar_639003739362563121.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/219353_1_459958_638767893538921353.png",
+        "https://web-fileserver.dirk.nl/artikelen/169699_1_454068_638289155632072913.png",
+        "https://web-fileserver.dirk.nl/artikelen/165160_1_445968_638242355431652525.png",
+        "https://web-fileserver.dirk.nl/artikelen/165155_1_445959_638242355368757856.png",
+        "https://web-fileserver.dirk.nl/artikelen/225453_1_445958_638817861671144786.png",
+        "https://web-fileserver.dirk.nl/artikelen/169700_1_454069_638289155644319177.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/voorraadkast/speciale-voeding/xxl-nutrition-reep-of-oat-bar/101224",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Voorraadkast/Speciale voeding",
+      "department": "Voorraadkast",
+      "webgroup": "Speciale voeding",
+      "variants": [
+        "XXL NUTRITION Delicious oat bar caramel",
+        "XXL NUTRITION Delicious oat bar wit choco kers",
+        "XXL NUTRITION Delicious oat bar yoghurt muesli",
+        "XXL NUTRITION High protein bar 2.0 cookies-cream",
+        "XXL NUTRITION Njoy bar peanut butter-caramel",
+        "XXL NUTRITION Njoy protein bar cookie dough"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132579,
+      "product_id": 117761,
+      "name": "Luxe pastasalade ",
+      "brand": "",
+      "packaging": "Bak 300 gram. OP=OP",
+      "unit_size": "300 g",
+      "weight": "",
+      "offer_price": 2.99,
+      "normal_price": 2.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/7/5/2/3/1/Luxe pastasalade_639003683484913987.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/225952_1_480234_638835027890799344.png",
+        "https://web-fileserver.dirk.nl/artikelen/226440_1_480233_638835027758842648.png",
+        "https://web-fileserver.dirk.nl/artikelen/237720_1_480232_638892906790647156.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/maaltijden-salades-tapas/maaltijdsalades/luxe-pastasalade/117761",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Maaltijden, salades & tapas/Maaltijdsalades",
+      "department": "Maaltijden, salades & tapas",
+      "webgroup": "Maaltijdsalades",
+      "variants": [
+        "Pastasalade kip caesar",
+        "Pastasalade pesto",
+        "Pastasalade tonijn"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132595,
+      "product_id": 55243,
+      "name": "Unox soep",
+      "brand": "Unox",
+      "packaging": "Zak 570 ml.",
+      "unit_size": "570 ml",
+      "weight": "",
+      "offer_price": 1.49,
+      "normal_price": 2.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/9/5/2/3/1/Unox soep_639003689101651785.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/167469_1_408309_638332323451829693.png",
+        "https://web-fileserver.dirk.nl/artikelen/167467_1_408303_638332323297572371.png",
+        "https://web-fileserver.dirk.nl/artikelen/167466_1_408301_638261560456219557.png",
+        "https://web-fileserver.dirk.nl/artikelen/167465_1_408300_638261533808917030.png",
+        "https://web-fileserver.dirk.nl/artikelen/167474_1_412183_638261533845226612.png",
+        "https://web-fileserver.dirk.nl/artikelen/169720_1_455699_638289155945149434.png",
+        "https://web-fileserver.dirk.nl/artikelen/169534_1_456016_638285691101690495.png",
+        "https://web-fileserver.dirk.nl/artikelen/32565_1_408310_638245801114989690.png",
+        "https://web-fileserver.dirk.nl/artikelen/167464_1_408299_638261533798728846.png",
+        "https://web-fileserver.dirk.nl/artikelen/170388_1_455700_638296914509563444.png",
+        "https://web-fileserver.dirk.nl/artikelen/174161_1_456227_638333976328278372.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/maaltijden-salades-tapas/houdbare-soepen/unox-soep/55243",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Maaltijden, salades & tapas/Houdbare soepen",
+      "department": "Maaltijden, salades & tapas",
+      "webgroup": "Houdbare soepen",
+      "variants": [
+        "Unox Soep in zak romige champignonsoep",
+        "Unox Soep in zak heldere kippensoep",
+        "Unox Soep in zak romige tomatensoep",
+        "Unox Soep in zak Franse uiensoep",
+        "Unox Soep in zak tomaat groentesoep",
+        "Unox Goulash soep extra rijkgevuld",
+        "Unox Soep in zak erwten extra rijkgevuld",
+        "Unox Soep in zak romige mosterdsoep",
+        "Unox Soep in zak klassieke tomatensoep",
+        "Unox Curry soep extra rijkgevuld",
+        "Unox Paprika tomatensoep extra rijkgevuld"
+      ],
+      "logos": [
+        {
+          "name": "Beter Leven 1",
+          "image_url": "https://web-fileserver.dirk.nl/logos/9dab2f4e-09aa-42f1-8990-34201efcbdf2.png",
+          "link": null
+        },
+        {
+          "name": "Beter Leven 2",
+          "image_url": "https://web-fileserver.dirk.nl/logos/92bb435b-408b-40ec-a65e-e634d08a6025.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132605,
+      "product_id": 24369,
+      "name": "Nissin Soba noodles",
+      "brand": "Nissin",
+      "packaging": "Beker 89 of 92 gram.",
+      "unit_size": "92 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 2.39,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/0/6/2/3/1/Nissin Soba noodles_639003688371884449.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/190174_1_379681_638509387138248445.png",
+        "https://web-fileserver.dirk.nl/artikelen/114264_1_413677_637865056040924073.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/maaltijden-salades-tapas/houdbare-maaltijden/nissin-soba-noodles/24369",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Maaltijden, salades & tapas/Houdbare maaltijden",
+      "department": "Maaltijden, salades & tapas",
+      "webgroup": "Houdbare maaltijden",
+      "variants": [
+        "Nissin Soba noodles Chili",
+        "Nissin Soba noodles yakatori"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132646,
+      "product_id": 113288,
+      "name": "Daily Chef bapao",
+      "brand": "Daily Chef",
+      "packaging": "Per stuk 115 gram.",
+      "unit_size": "115 g",
+      "weight": "",
+      "offer_price": 0.69,
+      "normal_price": 0.97,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/4/6/2/3/1/Daily Chef bapao_639003734685872970.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/222741_1_472964_638793723704002892.png",
+        "https://web-fileserver.dirk.nl/artikelen/222764_1_475731_638793726341139627.png",
+        "https://web-fileserver.dirk.nl/artikelen/222766_1_475733_638793726338315699.png",
+        "https://web-fileserver.dirk.nl/artikelen/222765_1_475732_638793726339362728.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/maaltijden-salades-tapas/verse-maaltijden/daily-chef-bapao/113288",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Maaltijden, salades & tapas/Verse maaltijden",
+      "department": "Maaltijden, salades & tapas",
+      "webgroup": "Verse maaltijden",
+      "variants": [
+        "Daily Chef Bapao groente",
+        "Daily Chef Bapao kip",
+        "Daily Chef Bapao rundvlees",
+        "Daily Chef Bapao kipsate"
+      ],
+      "logos": [
+        {
+          "name": "Beter Leven 1",
+          "image_url": "https://web-fileserver.dirk.nl/logos/9dab2f4e-09aa-42f1-8990-34201efcbdf2.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132648,
+      "product_id": 72645,
+      "name": "Farmland knoflook baguette",
+      "brand": "Farmland",
+      "packaging": "Per stuk. OP=OP",
+      "unit_size": "175 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/4/6/2/3/1/Farmland knoflook baguette_639003736461180259.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/246162_1_426984_639004440826122016.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/maaltijden-salades-tapas/verse-maaltijden/farmland-knoflook-baguette/72645",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Maaltijden, salades & tapas/Verse maaltijden",
+      "department": "Maaltijden, salades & tapas",
+      "webgroup": "Verse maaltijden",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132667,
+      "product_id": 63614,
+      "name": "Daily Chef verse pasta ",
+      "brand": "Daily Chef",
+      "packaging": "Zak 250 gram.",
+      "unit_size": "250 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 2.25,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/6/6/2/3/1/Daily Chef verse pasta_639003740614497353.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/114569_1_415620_638239772561401692.png",
+        "https://web-fileserver.dirk.nl/artikelen/115065_1_415618_638239772550781400.png",
+        "https://web-fileserver.dirk.nl/artikelen/246161_1_422852_639004440811232045.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/maaltijden-salades-tapas/verse-maaltijden/daily-chef-verse-pasta/63614",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Maaltijden, salades & tapas/Verse maaltijden",
+      "department": "Maaltijden, salades & tapas",
+      "webgroup": "Verse maaltijden",
+      "variants": [
+        "Daily Chef Spaghetti",
+        "Daily Chef Tagliatelle naturel",
+        "Daily Chef Pappardelle"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132672,
+      "product_id": 60254,
+      "name": "Daily Chef Oosterse maaltijd",
+      "brand": "Daily Chef",
+      "packaging": "Schaal 450 gram.",
+      "unit_size": "450 g",
+      "weight": "",
+      "offer_price": 3.79,
+      "normal_price": 4.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/7/6/2/3/1/Daily Chef Oosterse maaltijd_639003740439217819.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/237186_1_412911_638888592337180715.png",
+        "https://web-fileserver.dirk.nl/artikelen/81371_1_412912_637898455081918866.png",
+        "https://web-fileserver.dirk.nl/artikelen/114564_1_412908_637898455043640574.png",
+        "https://web-fileserver.dirk.nl/artikelen/114565_1_412909_637898455058747135.png",
+        "https://web-fileserver.dirk.nl/artikelen/86976_1_426007_637898464995483849.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/maaltijden-salades-tapas/verse-maaltijden/daily-chef-oosterse-maaltijd/60254",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Maaltijden, salades & tapas/Verse maaltijden",
+      "department": "Maaltijden, salades & tapas",
+      "webgroup": "Verse maaltijden",
+      "variants": [
+        "Daily Chef Bami + babi pangang",
+        "Daily Chef Bami + sate ajam",
+        "Daily Chef Nasi + babi pangang",
+        "Daily Chef Nasi + sate ajam",
+        "Daily Chef Bami+groenten + foe yong hai"
+      ],
+      "logos": [
+        {
+          "name": "Beter Leven 1",
+          "image_url": "https://web-fileserver.dirk.nl/logos/9dab2f4e-09aa-42f1-8990-34201efcbdf2.png",
+          "link": null
+        },
+        {
+          "name": "Beter Leven 2",
+          "image_url": "https://web-fileserver.dirk.nl/logos/92bb435b-408b-40ec-a65e-e634d08a6025.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132698,
+      "product_id": 117010,
+      "name": "Verspakket van de maand ",
+      "brand": "",
+      "packaging": "Per pakket.",
+      "unit_size": "Per stuk",
+      "weight": "",
+      "offer_price": 2.99,
+      "normal_price": 3.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/artikelen/229877_1_460771_638864661239661344.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/229877_1_460771_638864661239661344.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/maaltijden-salades-tapas/verse-maaltijden/verspakket-van-de-maand/117010",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Maaltijden, salades & tapas/Verse maaltijden",
+      "department": "Maaltijden, salades & tapas",
+      "webgroup": "Verse maaltijden",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132604,
+      "product_id": 116776,
+      "name": "Magnum mini classic",
+      "brand": "Ola",
+      "packaging": "Pak 3 stuks. OP=OP",
+      "unit_size": "165 ml",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/0/6/2/3/1/Magnum mini classic_639003688290825885.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/217632_1_476759_638787528433010878.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/diepvries/ijs/magnum-mini-classic/116776",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Diepvries/IJs",
+      "department": "Diepvries",
+      "webgroup": "IJs",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132640,
+      "product_id": 6844,
+      "name": "Mora Classics",
+      "brand": "Mora",
+      "packaging": "Pak 4 of 5 stuks. ",
+      "unit_size": "350 g",
+      "weight": "5 stuks",
+      "offer_price": 0.99,
+      "normal_price": 1.89,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/4/6/2/3/1/Mora Classics_639003737362882644.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/193312_1_349282_638544027682094738.png",
+        "https://web-fileserver.dirk.nl/artikelen/122623_1_207535_637904583113510972.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/diepvries/diepvries-snacks/mora-classics/6844",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Diepvries/Diepvries snacks",
+      "department": "Diepvries",
+      "webgroup": "Diepvries snacks",
+      "variants": [
+        "Mora Frikandellen 5 stuks",
+        "Mora Hamburgers 4 stuks"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132641,
+      "product_id": 83457,
+      "name": "Smuldier hondenvoeding",
+      "brand": "Smuldier",
+      "packaging": "Pak 400 gram of 4 x 60 gram (m.u.v. houdbaar).",
+      "unit_size": "400 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.79,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/4/6/2/3/1/Smuldier hondenvoeding_639003738648904484.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/246594_1_445170_639010479759017566.png",
+        "https://web-fileserver.dirk.nl/artikelen/246563_1_445176_639010461737437983.png",
+        "https://web-fileserver.dirk.nl/artikelen/204863_1_445232_638664123365891030.png",
+        "https://web-fileserver.dirk.nl/artikelen/246562_1_445168_639010461722484781.png",
+        "https://web-fileserver.dirk.nl/artikelen/246561_1_445167_639010461710478802.png",
+        "https://web-fileserver.dirk.nl/artikelen/204887_1_464396_638664123469003660.png",
+        "https://web-fileserver.dirk.nl/artikelen/246560_1_445166_639010461709445628.png",
+        "https://web-fileserver.dirk.nl/artikelen/200802_1_445177_638628744279760852.png",
+        "https://web-fileserver.dirk.nl/artikelen/246564_1_471902_639010461715200801.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/diepvries/diepvries-dierenvoeding/smuldier-hondenvoeding/83457",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Diepvries/Diepvries dierenvoeding",
+      "department": "Diepvries",
+      "webgroup": "Diepvries dierenvoeding",
+      "variants": [
+        "Smuldier Kip compleet",
+        "Smuldier Lam-rijst compleet",
+        "Smuldier Pens en hart compleet",
+        "Smuldier Pens en vlees compleet",
+        "Smuldier Vlees compleet",
+        "Smuldier Eend en rund compleet",
+        "Smuldier Runderpens",
+        "Smuldier Rund-groenten compleet",
+        "Smuldier Hart compleet"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132674,
+      "product_id": 59292,
+      "name": "Queens zalm- of kabeljauwfilets",
+      "brand": "Queens",
+      "packaging": "Zak 375 gram.",
+      "unit_size": "375 g",
+      "weight": "",
+      "offer_price": 3.69,
+      "normal_price": 3.89,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/7/6/2/3/1/Queens zalm- of kabeljauwfilets_639003743204700960.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/193322_1_410419_638544027720156365.png",
+        "https://web-fileserver.dirk.nl/artikelen/215878_1_475256_638781555541552006.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/diepvries/diepvries-vis/queens-zalm-of-kabeljauwfilets/59292",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Diepvries/Diepvries vis",
+      "department": "Diepvries",
+      "webgroup": "Diepvries vis",
+      "variants": [
+        "Queens Wilde zalmfilets met huid",
+        "Queens Kabeljauwfilet met huid"
+      ],
+      "logos": [
+        {
+          "name": "MSC Vis",
+          "image_url": "https://web-fileserver.dirk.nl/logos/8bd1dff2-494f-4755-843f-f2df1a54a241.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132629,
+      "product_id": 563,
+      "name": "Colgate tandpasta ",
+      "brand": "Colgate",
+      "packaging": "Tube 75 ml.",
+      "unit_size": "75 ml",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 2.19,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/2/6/2/3/1/Colgate tandpasta_639003734462726957.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/204539_1_126331_638659803302396947.png",
+        "https://web-fileserver.dirk.nl/artikelen/204540_1_126333_638659803276450763.png",
+        "https://web-fileserver.dirk.nl/artikelen/204543_1_412312_638659803390400116.png",
+        "https://web-fileserver.dirk.nl/artikelen/230231_1_448349_638868957599085748.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/kind-drogisterij/mondverzorging/colgate-tandpasta/563",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Kind & drogisterij/Mondverzorging",
+      "department": "Kind & drogisterij",
+      "webgroup": "Mondverzorging",
+      "variants": [
+        "Colgate Tandpasta caries protection",
+        "Colgate Tandpasta blue fresh gel",
+        "Colgate Tandpasta triple action whitening",
+        "Colgate Tandpasta triple action xtra fresh"
+      ],
+      "logos": [
+        {
+          "name": "DIRK BLIJFT PRIJZEN VERLAGEN",
+          "image_url": "https://web-fileserver.dirk.nl/logos/a19a1a6d-86cd-4847-a0c4-b88faabbe5d3.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132631,
+      "product_id": 74638,
+      "name": "Libresse inlegkruisjes ",
+      "brand": "Libresse",
+      "packaging": "Pak 20 stuks. OP=OP",
+      "unit_size": "20 stuks",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/3/6/2/3/1/Libresse inlegkruisjes_639003737108190143.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/238269_1_431785_638949963136438561.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/kind-drogisterij/dameshygiene/libresse-inlegkruisjes/74638",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Kind & drogisterij/Dameshygiëne",
+      "department": "Kind & drogisterij",
+      "webgroup": "Dameshygiëne",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132632,
+      "product_id": 74865,
+      "name": "Libresse maandverband ",
+      "brand": "Libresse",
+      "packaging": "Pak 10 stuks. OP=OP",
+      "unit_size": "10 Stuks",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/3/6/2/3/1/Libresse maandverband_639003737015102637.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/238267_1_431782_638949957652467504.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/kind-drogisterij/dameshygiene/libresse-maandverband/74865",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Kind & drogisterij/Dameshygiëne",
+      "department": "Kind & drogisterij",
+      "webgroup": "Dameshygiëne",
+      "variants": [],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132634,
+      "product_id": 100675,
+      "name": "Palmolive douche",
+      "brand": "Palmolive",
+      "packaging": "Flacon 250 ml (m.u.v. naturals).",
+      "unit_size": "250 ml",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 2.45,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/3/6/2/3/1/Palmolive douche_639003737951663832.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/176659_1_459518_638392746938383914.png",
+        "https://web-fileserver.dirk.nl/artikelen/176658_1_459517_638392746821414484.png",
+        "https://web-fileserver.dirk.nl/artikelen/158850_1_450202_638193951481711395.png",
+        "https://web-fileserver.dirk.nl/artikelen/174297_1_456891_638604609884968226.png",
+        "https://web-fileserver.dirk.nl/artikelen/174296_1_456890_638694015138435426.png",
+        "https://web-fileserver.dirk.nl/artikelen/161756_1_452731_638604606549244522.png",
+        "https://web-fileserver.dirk.nl/artikelen/155727_1_447579_638984484329981164.png",
+        "https://web-fileserver.dirk.nl/artikelen/155695_1_424942_638150796398748514.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/kind-drogisterij/bad-douche-zeep/palmolive-douche/100675",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Kind & drogisterij/Bad, douche & zeep",
+      "department": "Kind & drogisterij",
+      "webgroup": "Bad, douche & zeep",
+      "variants": [
+        "Palmolive Douchegel for men refreshing",
+        "Palmolive Douchegel for men sport",
+        "Palmolive Aroma essences ultimate relax",
+        "Palmolive Sparkling bloom enchanted orchide",
+        "Palmolive Sparkling bloom midnight rose",
+        "Palmolive Douchegel aroma essence happy",
+        "Palmolive Douchegel aroma alluring love",
+        "Palmolive Douchegel Thermal pampering oil"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132635,
+      "product_id": 78832,
+      "name": "Vogue deodorant",
+      "brand": "Vogue",
+      "packaging": "Bus 150 ml. OP=OP",
+      "unit_size": "150 ml",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/5/3/6/2/3/1/Vogue deodorant_639003739210437476.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/240480_1_435211_638926608421837865.png",
+        "https://web-fileserver.dirk.nl/artikelen/238509_1_452525_638895711174923820.png",
+        "https://web-fileserver.dirk.nl/artikelen/237467_1_481480_638895498826530649.png",
+        "https://web-fileserver.dirk.nl/artikelen/237468_1_481481_638895498785809614.png",
+        "https://web-fileserver.dirk.nl/artikelen/235885_1_431236_638895595007721083.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/kind-drogisterij/deodorant/vogue-deodorant/78832",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Kind & drogisterij/Deodorant",
+      "department": "Kind & drogisterij",
+      "webgroup": "Deodorant",
+      "variants": [
+        "Vogue Deospray reve exotique",
+        "Vogue Deospray extravagant",
+        "Vogue Deodorant men nordic blue",
+        "Vogue Deodorant men black",
+        "Vogue Deodorant enjoy parfum"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132692,
+      "product_id": 119349,
+      "name": "Garnier Loving blends shampoo of conditioner",
+      "brand": "Garnier",
+      "packaging": "Flacon 200 of 250 ml.",
+      "unit_size": "200 ml",
+      "weight": "",
+      "offer_price": 2.49,
+      "normal_price": 3.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/9/6/2/3/1/Garnier Loving blends shampoo of conditioner_639003748711230711.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/239457_1_481961_638912064726120986.png",
+        "https://web-fileserver.dirk.nl/artikelen/239455_1_481959_638912064695069602.png",
+        "https://web-fileserver.dirk.nl/artikelen/239458_1_481962_638912064722132098.png",
+        "https://web-fileserver.dirk.nl/artikelen/239456_1_481960_638912064633148102.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/kind-drogisterij/haarverzorging/garnier-loving-blends-shampoo-of-conditioner/119349",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Kind & drogisterij/Haarverzorging",
+      "department": "Kind & drogisterij",
+      "webgroup": "Haarverzorging",
+      "variants": [
+        "Garnier Cremespoeling argan- & camelia olie",
+        "Garnier Shampoo argan- & camelia olie",
+        "Garnier Cremespoeling honinggoud",
+        "Garnier Shampoo honinggoud"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132602,
+      "product_id": 10123,
+      "name": "Catisfactions kattensnacks",
+      "brand": "Catisfactions",
+      "packaging": "Zakje 60 gram.",
+      "unit_size": "60 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 2.05,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/2/0/6/2/3/1/Catisfactions kattensnacks_639003685960568828.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/23049_1_363347_638052399789204565.png",
+        "https://web-fileserver.dirk.nl/artikelen/244042_1_363348_638971743364821769.png",
+        "https://web-fileserver.dirk.nl/artikelen/23051_1_363349_638052399781412042.png",
+        "https://web-fileserver.dirk.nl/artikelen/164244_1_454608_638295023768936315.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/huishoud-huisdieren/huisdieren/catisfactions-kattensnacks/10123",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Huishoud & huisdieren/Huisdieren",
+      "department": "Huishoud & huisdieren",
+      "webgroup": "Huisdieren",
+      "variants": [
+        "Catisfactions Kattensnoepjes met kip",
+        "Catisfactions Kattensnoepjes met zalm",
+        "Catisfactions Kattensnoepjes met kaas",
+        "Catisfactions Kattensnacks catnip"
+      ],
+      "logos": [
+        {
+          "name": "DIRK BLIJFT PRIJZEN VERLAGEN",
+          "image_url": "https://web-fileserver.dirk.nl/logos/a19a1a6d-86cd-4847-a0c4-b88faabbe5d3.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132607,
+      "product_id": 116060,
+      "name": "Whiskas Tempations",
+      "brand": "Whiskas",
+      "packaging": "Zakje 60 gram.",
+      "unit_size": "60 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/7/0/6/2/3/1/Whiskas Tempations_639003689275676599.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/211520_1_475547_638772810665868881.png",
+        "https://web-fileserver.dirk.nl/artikelen/222994_1_477700_638797083388522151.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/huishoud-huisdieren/huisdieren/whiskas-tempations/116060",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Huishoud & huisdieren/Huisdieren",
+      "department": "Huishoud & huisdieren",
+      "webgroup": "Huisdieren",
+      "variants": [
+        "Whiskas Kattensnacks temptations kip-kaas",
+        "Whiskas Kattensnacks temptations zalm"
+      ],
+      "logos": [
+        {
+          "name": "DIRK BLIJFT PRIJZEN VERLAGEN",
+          "image_url": "https://web-fileserver.dirk.nl/logos/a19a1a6d-86cd-4847-a0c4-b88faabbe5d3.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132630,
+      "product_id": 111118,
+      "name": "Glorix toiletblok",
+      "brand": "Glorix",
+      "packaging": "Per stuk 50 - 55 gram.",
+      "unit_size": "50 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 3.29,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/3/6/2/3/1/Glorix toiletblok_639003736738119001.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/200035_1_466332_638616675107264325.png",
+        "https://web-fileserver.dirk.nl/artikelen/197854_1_466334_638604618888949325.png",
+        "https://web-fileserver.dirk.nl/artikelen/199364_1_466343_638610627612345167.png",
+        "https://web-fileserver.dirk.nl/artikelen/197857_1_466344_638598534607795590.png",
+        "https://web-fileserver.dirk.nl/artikelen/197853_1_466330_638598534615717514.png",
+        "https://web-fileserver.dirk.nl/artikelen/198664_1_466331_638604618737984022.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/huishoud-huisdieren/toiletreinigers-verfrissers/glorix-toiletblok/111118",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Huishoud & huisdieren/Toiletreinigers & verfrissers",
+      "department": "Huishoud & huisdieren",
+      "webgroup": "Toiletreinigers & verfrissers",
+      "variants": [
+        "Glorix Toiletblok citrus",
+        "Glorix Toiletblok blauw water",
+        "Glorix Toiletblok lavendel",
+        "Glorix Toiletblok ocean",
+        "Glorix Toiletblok aroma lux dahlia flow&dragonfr",
+        "Glorix Toiletblok aroma white roses&tea tree oil"
+      ],
+      "logos": [
+        {
+          "name": "DIRK BLIJFT PRIJZEN VERLAGEN",
+          "image_url": "https://web-fileserver.dirk.nl/logos/a19a1a6d-86cd-4847-a0c4-b88faabbe5d3.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132633,
+      "product_id": 72056,
+      "name": "Page vochtig toiletpapier ",
+      "brand": "Page",
+      "packaging": "Pak 38 stuks.",
+      "unit_size": "38 stuks",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 2.05,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/3/6/2/3/1/Page vochtig toiletpapier_639003737804368040.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/244511_1_428110_638979312453604871.png",
+        "https://web-fileserver.dirk.nl/artikelen/244512_1_428112_638979312468859114.png",
+        "https://web-fileserver.dirk.nl/artikelen/244513_1_428114_638979312453627268.png",
+        "https://web-fileserver.dirk.nl/artikelen/244523_1_476427_638979312450483447.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/huishoud-huisdieren/toilet-keukenpapier-tissues/page-vochtig-toiletpapier/72056",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Huishoud & huisdieren/Toilet-, keukenpapier & tissues",
+      "department": "Huishoud & huisdieren",
+      "webgroup": "Toilet-, keukenpapier & tissues",
+      "variants": [
+        "Page Vochtig toiletpapier aloe vera",
+        "Page Vochtig toiletpapier compleet schoon",
+        "Page Vochtig toiletpapier sensitive",
+        "Page Vochtig toiletpapier puur"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132688,
+      "product_id": 115279,
+      "name": "Lenor geurparels",
+      "brand": "Lenor",
+      "packaging": "Pak 155 gram.",
+      "unit_size": "155 g",
+      "weight": "",
+      "offer_price": 2.99,
+      "normal_price": 7.29,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/8/6/2/3/1/Lenor geurparels_639003747091174568.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/221197_1_476653_638780628876625469.png",
+        "https://web-fileserver.dirk.nl/artikelen/223924_1_478180_638804875076455601.png",
+        "https://web-fileserver.dirk.nl/artikelen/221196_1_476651_638780628886677612.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/huishoud-huisdieren/wasmiddel-verzachters/lenor-geurparels/115279",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Huishoud & huisdieren/Wasmiddel & verzachters",
+      "department": "Huishoud & huisdieren",
+      "webgroup": "Wasmiddel & verzachters",
+      "variants": [
+        "Lenor Geurparels zeebries",
+        "Lenor Geurparels robijn jasmijn",
+        "Lenor Geurparels amber & orchidee"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132689,
+      "product_id": 70906,
+      "name": "Robijn wasmiddel ",
+      "brand": "Robijn",
+      "packaging": "Pak 15 capsules of flacon 20 wasbeurten. OP=OP",
+      "unit_size": "1 liter",
+      "weight": "",
+      "offer_price": 3.99,
+      "normal_price": 8.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/9/8/6/2/3/1/Robijn wasmiddel 1_639003750105130744.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/81816_1_426254_638257951371123544.png",
+        "https://web-fileserver.dirk.nl/artikelen/80075_1_426253_638257951361145727.png",
+        "https://web-fileserver.dirk.nl/artikelen/81815_1_426252_638257951351981361.png",
+        "https://web-fileserver.dirk.nl/artikelen/166059_1_450930_638260299775679086.png",
+        "https://web-fileserver.dirk.nl/artikelen/191863_1_450928_638530159095807013.png",
+        "https://web-fileserver.dirk.nl/artikelen/169557_1_450929_638285716958154418.png",
+        "https://web-fileserver.dirk.nl/artikelen/199444_1_466346_638610627621680623.png",
+        "https://web-fileserver.dirk.nl/artikelen/202111_1_469933_638640897865581937.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/huishoud-huisdieren/wasmiddel-verzachters/robijn-wasmiddel/70906",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Huishoud & huisdieren/Wasmiddel & verzachters",
+      "department": "Huishoud & huisdieren",
+      "webgroup": "Wasmiddel & verzachters",
+      "variants": [
+        "Robijn Vloeibaar wasmiddel color pink  20 wasbeurten",
+        "Robijn Vloeibaar wasmiddel stralend wit 20 wasbeurten",
+        "Robijn Vloeibaar wasmiddel color 20 wasbeurten",
+        "Robijn Vloeibaar wasmiddel 3 in 1 caps. Black velvet",
+        "Robijn Vloeibaar wasmiddel 3 in 1 caps. color",
+        "Robijn Vloeibaar wasmiddel 3 in 1 caps. stralend wit",
+        "Robijn Vloeibaar wasmiddel 3 in 1 caps spa sensation",
+        "Robijn Vloeibaar wasmiddel 3 in 1 caps tropical"
+      ],
+      "logos": []
+    },
+    {
+      "id": 132690,
+      "product_id": 102476,
+      "name": "3G Power of Expert reiniger",
+      "brand": "3G Professioneel",
+      "packaging": "Flacon 500 ml.",
+      "unit_size": "500 ml",
+      "weight": "3G",
+      "offer_price": 1.99,
+      "normal_price": 2.89,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/0/9/6/2/3/1/3G Power of Expert reiniger_639003743804928823.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/181515_1_461488_638428287768678740.png",
+        "https://web-fileserver.dirk.nl/artikelen/182351_1_461489_638435892345492988.png",
+        "https://web-fileserver.dirk.nl/artikelen/185811_1_465517_638488551430355919.png",
+        "https://web-fileserver.dirk.nl/artikelen/185813_1_465519_638495481375715388.png",
+        "https://web-fileserver.dirk.nl/artikelen/185803_1_464914_638471271569546751.png",
+        "https://web-fileserver.dirk.nl/artikelen/185812_1_465518_638482512366333557.png",
+        "https://web-fileserver.dirk.nl/artikelen/182239_1_447973_638436052136077891.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/huishoud-huisdieren/schoonmaakmiddelen/3g-power-of-expert-reiniger/102476",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Huishoud & huisdieren/Schoonmaakmiddelen",
+      "department": "Huishoud & huisdieren",
+      "webgroup": "Schoonmaakmiddelen",
+      "variants": [
+        "3G Professioneel Schimmel- & aanslagreiniger",
+        "3G Professioneel Vlekverwijderaar",
+        "3G Professioneel Kalkreiniger",
+        "3G Professioneel Apparaat ontkalker",
+        "3G Professioneel Power ontstopper vloeibaar",
+        "3G Professioneel Badkamer reiniger",
+        "3G Professioneel Turbo ontstopper industrieel"
+      ],
+      "logos": [
+        {
+          "name": "DIRK BLIJFT PRIJZEN VERLAGEN",
+          "image_url": "https://web-fileserver.dirk.nl/logos/a19a1a6d-86cd-4847-a0c4-b88faabbe5d3.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132691,
+      "product_id": 116794,
+      "name": "Dreft platinum vaatwastabs",
+      "brand": "Dreft",
+      "packaging": "Zak 19 stuks.",
+      "unit_size": "19 Stuks",
+      "weight": "",
+      "offer_price": 4.99,
+      "normal_price": 12.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/1/9/6/2/3/1/Dreft platinum vaatwastabs_639003747254874501.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/223601_1_478812_638798742267189630.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/huishoud-huisdieren/afwasmiddelen-benodigdheden/dreft-platinum-vaatwastabs/116794",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Huishoud & huisdieren/Afwasmiddelen & -benodigdheden",
+      "department": "Huishoud & huisdieren",
+      "webgroup": "Afwasmiddelen & -benodigdheden",
+      "variants": [],
+      "logos": []
+    },
+    {
+      "id": 132593,
+      "product_id": 38686,
+      "name": "Doritos valuepack",
+      "brand": "Doritos",
+      "packaging": "Zak 272 gram. OP=OP",
+      "unit_size": "272 g",
+      "weight": "",
+      "offer_price": 1.99,
+      "normal_price": 2.37,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/9/5/2/3/1/Doritos valuepack_639003686494873075.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/221360_1_392427_638780808363818641.png",
+        "https://web-fileserver.dirk.nl/artikelen/221358_1_392426_638780808356630507.png",
+        "https://web-fileserver.dirk.nl/artikelen/246157_1_403045_639004440844573923.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/snacks-snoep/chips/doritos-valuepack/38686",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Snacks & snoep/Chips",
+      "department": "Snacks & snoep",
+      "webgroup": "Chips",
+      "variants": [
+        "Doritos Sweet chili pepper party pack",
+        "Doritos Nacho cheese party pack",
+        "Doritos Tortilla chips cool american"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132623,
+      "product_id": 120569,
+      "name": "Chio Heartbreakers of Pom-bär ",
+      "brand": "Chio",
+      "packaging": "Zak 60 of 80 gram. OP=OP",
+      "unit_size": "80 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/3/2/6/2/3/1/Chio Heartbreakers of Pom-bär_639003734194479145.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/244461_1_484363_639004363065033476.png",
+        "https://web-fileserver.dirk.nl/artikelen/244462_1_484364_639004363068078605.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/snacks-snoep/chips/chio-heartbreakers-of-pom-bar/120569",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Snacks & snoep/Chips",
+      "department": "Snacks & snoep",
+      "webgroup": "Chips",
+      "variants": [
+        "Chio Heartbreakers",
+        "Chio Pombar original"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132624,
+      "product_id": 117946,
+      "name": "Katja snoep",
+      "brand": "Katja",
+      "packaging": "Zak 125 gram. OP=OP",
+      "unit_size": "125 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.49,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/4/2/6/2/3/1/Katja snoep_639003736923478404.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/227005_1_480072_638875653822904590.png",
+        "https://web-fileserver.dirk.nl/artikelen/227006_1_480073_638875653822936990.png",
+        "https://web-fileserver.dirk.nl/artikelen/230318_1_480074_638875653826891660.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/snacks-snoep/snoep/katja-snoep/117946",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Snacks & snoep/Snoep",
+      "department": "Snacks & snoep",
+      "webgroup": "Snoep",
+      "variants": [
+        "Katja Apekoppen",
+        "Katja Biggetjes",
+        "Katja Yoghurtgums"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132626,
+      "product_id": 57701,
+      "name": "Mentos rollen ",
+      "brand": "Mentos",
+      "packaging": "Pak 3 rollen. OP=OP",
+      "unit_size": "38 g",
+      "weight": "3 stuks",
+      "offer_price": 0.99,
+      "normal_price": 0.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/6/2/6/2/3/1/Mentos rollen_639003737583277385.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/246159_1_411067_639004440811206137.png",
+        "https://web-fileserver.dirk.nl/artikelen/246160_1_411069_639004440843654264.png",
+        "https://web-fileserver.dirk.nl/artikelen/95642_1_411070_638694012861551646.png",
+        "https://web-fileserver.dirk.nl/artikelen/226233_1_479423_638859306826660879.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/snacks-snoep/snoep/mentos-rollen/57701",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Snacks & snoep/Snoep",
+      "department": "Snacks & snoep",
+      "webgroup": "Snoep",
+      "variants": [
+        "Mentos Mint 3 stuks",
+        "Mentos Fruit 3 stuks",
+        "Mentos Drop 3 stuks",
+        "Mentos Discovery 3-pack"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    },
+    {
+      "id": 132628,
+      "product_id": 111542,
+      "name": "Smint Defensive ",
+      "brand": "Smint",
+      "packaging": "Fliptop 36 gram. OP=OP",
+      "unit_size": "36 g",
+      "weight": "",
+      "offer_price": 0.99,
+      "normal_price": 1.99,
+      "discount_text": "ACTIE_",
+      "image_url": "https://web-fileserver.dirk.nl/offers/8/2/6/2/3/1/Smint Defensive_639003738560944100.png",
+      "product_images": [
+        "https://web-fileserver.dirk.nl/artikelen/204121_1_468330_638689908417258341.png",
+        "https://web-fileserver.dirk.nl/artikelen/198542_1_468329_638604621250023569.png"
+      ],
+      "product_url": "https://www.dirk.nl/boodschappen/snacks-snoep/mondverfrissers-keelpastilles/smint-defensive/111542",
+      "start_date": "2025-12-10T00:00:00.000Z",
+      "end_date": "2025-12-16T23:59:00.000Z",
+      "category": "Snacks & snoep/Mondverfrissers & keelpastilles",
+      "department": "Snacks & snoep",
+      "webgroup": "Mondverfrissers & keelpastilles",
+      "variants": [
+        "Smint Defensive lemon fliptop",
+        "Smint Defensive peppermint fliptop"
+      ],
+      "logos": [
+        {
+          "name": "Op=Op",
+          "image_url": "https://web-fileserver.dirk.nl/logos/dced51af-6f63-4954-b72a-1274c6e099d5.png",
+          "link": null
+        }
+      ]
+    }
+  ]
+}

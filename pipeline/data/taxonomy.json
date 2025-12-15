@@ -1,0 +1,174 @@
+{
+  "version": "1.0",
+  "created": "2025-12-14",
+  "description": "BespaarWijzer Product Category Taxonomy - Master reference for consistent product categorization across all supermarkets",
+
+  "categories": {
+    "vlees": {
+      "name_nl": "Vlees",
+      "name_en": "Meat",
+      "icon": "🥩",
+      "category_keywords": ["vlees", "vis en vega", "vlees & vis", "gourmet"],
+      "subcategories": {
+        "rund": {"name_nl": "Rundvlees", "keywords": ["rund", "biefstuk", "gehakt", "ossenhaas", "entrecote", "rosbief", "tartaar", "hamburger", "sucadelapje", "runderlap", "stoofvlees"]},
+        "varken": {"name_nl": "Varkensvlees", "keywords": ["varken", "karbonade", "spek", "braadworst", "schnitzel", "procureur", "hamlap", "ribkarbonade", "varkenshaas", "slavink", "gehaktbal", "filet americain"]},
+        "kip": {"name_nl": "Kip & Gevogelte", "keywords": ["kip", "kipfilet", "drumstick", "kippenpoot", "kipgehakt", "kalkoen", "eend", "gevogelte", "shoarma", "gyros", "kipsate", "kipshaslick", "bapao"]},
+        "lam": {"name_nl": "Lam & Wild", "keywords": ["lam", "lamsbout", "lamsrack", "wild", "konijn", "hert"]},
+        "vleeswaren": {"name_nl": "Vleeswaren", "keywords": ["ham", "salami", "bacon", "rookvlees", "chorizo", "worst", "paté", "leverworst", "ontbijtspek", "vleesconserven", "corned beef"]},
+        "vleesvervangers": {"name_nl": "Vleesvervangers", "keywords": ["vega", "vegetarisch", "beyond", "impossible", "valess", "quorn", "tofu", "tempeh", "seitan", "vegaburger", "vegagehakt"]}
+      }
+    },
+
+    "vis": {
+      "name_nl": "Vis & Zeevruchten",
+      "name_en": "Fish & Seafood",
+      "icon": "🐟",
+      "category_keywords": ["vis", "zeevruchten", "seafood"],
+      "subcategories": {
+        "verse_vis": {"name_nl": "Verse Vis", "keywords": ["zalm", "kabeljauw", "tilapia", "pangasius", "forel", "tonijn", "makreel", "haring", "schol", "tong", "zeebaars", "dorade", "vis", "visfilet"]},
+        "zeevruchten": {"name_nl": "Zeevruchten", "keywords": ["garnaal", "garnalen", "mosselen", "calamaris", "inktvis", "kreeft", "krab", "scampi", "coquilles"]},
+        "bewerkte_vis": {"name_nl": "Bewerkte Vis", "keywords": ["visstick", "kibbeling", "lekkerbekje", "gerookte zalm", "maatjes", "rollmops", "ansjovis", "visconserven"]}
+      }
+    },
+
+    "zuivel": {
+      "name_nl": "Zuivel & Eieren",
+      "name_en": "Dairy & Eggs",
+      "icon": "🥛",
+      "subcategories": {
+        "melk": {"name_nl": "Melk", "keywords": ["melk", "halfvol", "vol", "magere", "karnemelk", "lactosevrij"]},
+        "yoghurt": {"name_nl": "Yoghurt & Kwark", "keywords": ["yoghurt", "kwark", "skyr", "vla", "pap", "dessert", "pudding"]},
+        "kaas": {"name_nl": "Kaas", "keywords": ["kaas", "gouda", "edammer", "brie", "camembert", "mozzarella", "cheddar", "geitenkaas", "feta", "parmezan", "gruyère", "raclette"]},
+        "boter": {"name_nl": "Boter & Margarine", "keywords": ["boter", "margarine", "roomboter", "halvarine", "bakboter"]},
+        "eieren": {"name_nl": "Eieren", "keywords": ["ei", "eieren", "scharrel", "vrije uitloop", "biologisch ei"]},
+        "room": {"name_nl": "Room & Crème", "keywords": ["room", "slagroom", "koffiemelk", "crème fraîche", "mascarpone"]}
+      }
+    },
+
+    "groente_fruit": {
+      "name_nl": "Groente & Fruit",
+      "name_en": "Vegetables & Fruit",
+      "icon": "🥬",
+      "category_keywords": ["groente", "fruit", "aardappelen", "agf"],
+      "subcategories": {
+        "groente": {"name_nl": "Verse Groente", "keywords": ["tomaat", "komkommer", "paprika", "ui", "wortel", "broccoli", "bloemkool", "sla", "spinazie", "courgette", "aubergine", "prei", "champignon", "bonen", "erwten", "groente", "andijvie", "boerenkool", "sperziebonen", "asperge", "kool", "witlof"]},
+        "fruit": {"name_nl": "Vers Fruit", "keywords": ["appel", "peer", "banaan", "sinaasappel", "mandarijn", "druif", "aardbei", "framboos", "blauwe bes", "mango", "ananas", "kiwi", "meloen", "watermeloen", "fruit", "granaatappel", "avocado", "citroen", "limoen", "perzik", "nectarine", "aardbeien", "frambozen", "bessen"]},
+        "aardappel": {"name_nl": "Aardappelen", "keywords": ["aardappel", "krieltjes", "friet", "puree", "aardappelpuree", "aardappelen"]},
+        "salade": {"name_nl": "Salades & Maaltijden", "keywords": ["salade", "voorverpakt", "meal", "maaltijd", "verspakket"]}
+      }
+    },
+
+    "brood_bakkerij": {
+      "name_nl": "Brood & Bakkerij",
+      "name_en": "Bread & Bakery",
+      "icon": "🍞",
+      "subcategories": {
+        "brood": {"name_nl": "Brood", "keywords": ["brood", "wit brood", "bruin brood", "volkoren", "meergranen", "tijger", "casino", "stokbrood", "ciabatta", "baguette", "knoflookbrood"]},
+        "broodjes": {"name_nl": "Broodjes & Bollen", "keywords": ["broodje", "bol", "pistolet", "croissant", "krentenbol", "rozijnenbol", "brunch", "breekbrood", "tulband"]},
+        "gebak": {"name_nl": "Gebak & Koek", "keywords": ["taart", "gebak", "cake", "koek", "stroopwafel", "speculaas", "pepernoot", "biscuit", "brownie", "muffin", "pancake", "pannenkoek", "poffertjes"]},
+        "ontbijt": {"name_nl": "Ontbijtgranen", "keywords": ["cornflakes", "muesli", "havermout", "cruesli", "ontbijtgranen", "granola"]}
+      }
+    },
+
+    "dranken": {
+      "name_nl": "Dranken",
+      "name_en": "Beverages",
+      "icon": "🥤",
+      "category_keywords": ["frisdrank", "sappen", "dranken", "bier", "wijn"],
+      "subcategories": {
+        "frisdrank": {"name_nl": "Frisdrank", "keywords": ["cola", "fanta", "sprite", "7up", "sinas", "cassis", "ice tea", "limonade", "energy drink", "red bull", "monster", "frisdrank", "tonic", "bitter lemon", "ginger ale"]},
+        "sap": {"name_nl": "Sap & Smoothie", "keywords": ["sinaasappelsap", "appelsap", "jus d'orange", "sap", "smoothie", "vruchtensap", "groentesap", "siroop", "ranja", "limonadesiroop"]},
+        "water": {"name_nl": "Water", "keywords": ["mineraalwater", "bronwater", "spa", "sourcy", "bruisend", "plat water", "water"]},
+        "koffie_thee": {"name_nl": "Koffie & Thee", "keywords": ["koffie", "espresso", "cappuccino", "latte", "thee", "groene thee", "kruidenthee", "senseo", "nespresso", "dolce gusto", "oploskoffie"]},
+        "alcohol": {"name_nl": "Alcohol", "keywords": ["bier", "wijn", "rode wijn", "witte wijn", "rosé", "champagne", "prosecco", "whisky", "vodka", "gin", "rum", "likeur", "pils", "speciaal bier", "radler", "cider", "chardonnay", "merlot", "cabernet", "sauvignon", "doos wijn", "park villa"]}
+      }
+    },
+
+    "diepvries": {
+      "name_nl": "Diepvries",
+      "name_en": "Frozen",
+      "icon": "🧊",
+      "category_keywords": ["diepvries", "frozen"],
+      "subcategories": {
+        "ijs": {"name_nl": "IJs", "keywords": ["ijs", "ijsje", "magnum", "cornetto", "ben & jerry", "hertog", "schepijs", "ijstaart"]},
+        "pizza": {"name_nl": "Pizza & Snacks", "keywords": ["pizza", "diepvriespizza", "bitterballen", "frikandel", "kroket", "snack", "loempia", "oven", "airfryer"]},
+        "groente_fruit": {"name_nl": "Groente & Fruit", "keywords": ["diepvriesgroente", "spinazie", "doperwten", "diepvriesfruit", "bosbessen"]},
+        "kant_klaar": {"name_nl": "Kant-en-klaar", "keywords": ["maaltijd", "lasagne", "nasi", "bami", "stamppot", "pannenkoek"]},
+        "aardappel": {"name_nl": "Aardappelproducten", "keywords": ["aardappelproducten", "frites", "patat", "aardappelspecialiteit", "aardappelschijf", "rösti"]}
+      }
+    },
+
+    "conserven_houdbaar": {
+      "name_nl": "Conserven & Houdbaar",
+      "name_en": "Canned & Shelf Stable",
+      "icon": "🥫",
+      "category_keywords": ["conserven", "soepen", "sauzen", "voorraadkast", "oliën"],
+      "subcategories": {
+        "conserven": {"name_nl": "Conserven", "keywords": ["blik", "ingeblikt", "tomaten", "mais", "bonen", "erwten", "soep", "tomatenconserven", "groenteconserven", "gepelde tomaten", "passata", "tomatenpuree", "olijven"]},
+        "pasta_rijst": {"name_nl": "Pasta & Rijst", "keywords": ["pasta", "spaghetti", "penne", "macaroni", "rijst", "basmati", "noodles", "couscous", "bulgur", "quinoa", "tagliatelle", "pappardelle", "linguine", "fusilli"]},
+        "sauzen": {"name_nl": "Sauzen & Kruiden", "keywords": ["saus", "ketchup", "mayonaise", "mosterd", "pesto", "pastasaus", "curry", "sambal", "ketjap", "mix", "kruidenmix", "kruidenboter", "dressing"]},
+        "kruiden": {"name_nl": "Kruiden & Specerijen", "keywords": ["kruiden", "specerijen", "peper", "zout", "paprikapoeder", "oregano", "basilicum", "kurkuma", "komijn"]},
+        "olie_azijn": {"name_nl": "Olie & Azijn", "keywords": ["olie", "olijfolie", "zonnebloemolie", "azijn", "balsamico", "kokosolie"]},
+        "speciale_voeding": {"name_nl": "Speciale Voeding", "keywords": ["speciale voeding", "glutenvrij", "lactosevrij", "suikervrij", "dieet"]}
+      }
+    },
+
+    "snoep_snacks": {
+      "name_nl": "Snoep & Snacks",
+      "name_en": "Candy & Snacks",
+      "icon": "🍫",
+      "subcategories": {
+        "chocolade": {"name_nl": "Chocolade", "keywords": ["chocolade", "chocola", "reep", "bonbon", "praline", "tony", "milka", "verkade"]},
+        "snoep": {"name_nl": "Snoep", "keywords": ["snoep", "drop", "winegum", "lolly", "kauwgom", "pepermunt", "menthos"]},
+        "chips": {"name_nl": "Chips & Noten", "keywords": ["chips", "lay's", "pringles", "doritos", "noten", "pinda", "cashew", "popcorn"]},
+        "koek": {"name_nl": "Koekjes", "keywords": ["koekje", "biscuit", "oreo", "bastogne", "maria"]}
+      }
+    },
+
+    "verzorging": {
+      "name_nl": "Verzorging",
+      "name_en": "Personal Care",
+      "icon": "🧴",
+      "category_keywords": ["drogisterij", "verzorging", "beauty", "cosmetica"],
+      "subcategories": {
+        "haar": {"name_nl": "Haarverzorging", "keywords": ["shampoo", "conditioner", "gel", "haarspray", "styling", "haarkleuring", "haarverf", "haarmasker"]},
+        "lichaam": {"name_nl": "Lichaamsverzorging", "keywords": ["douchegel", "zeep", "bodylotion", "deodorant", "scheerschuim", "scheermesjes", "douche", "bad", "scrub", "bodybutter"]},
+        "mondverzorging": {"name_nl": "Mondverzorging", "keywords": ["tandpasta", "tandenborstel", "mondwater", "floss", "tandzijde", "tanden"]},
+        "gezicht": {"name_nl": "Gezichtsverzorging", "keywords": ["gezichtscrème", "cleanser", "toner", "serum", "masker", "gezicht", "crème", "huidverzorging"]},
+        "hygiene": {"name_nl": "Hygiëne", "keywords": ["maandverband", "tampons", "inlegkruisjes", "wattenschijfjes", "wattenstaafjes"]}
+      }
+    },
+
+    "huishouden": {
+      "name_nl": "Huishouden",
+      "name_en": "Household",
+      "icon": "🧹",
+      "category_keywords": ["huishouden", "huishoud", "schoonmaakmiddelen", "dieren", "huisdieren"],
+      "subcategories": {
+        "schoonmaak": {"name_nl": "Schoonmaakmiddelen", "keywords": ["allesreiniger", "glasreiniger", "bleek", "schoonmaak", "sanitair", "wc reiniger", "glorix", "ajax", "mr proper", "dettol", "vloeibare reiniger", "ontvetter"]},
+        "wasmiddel": {"name_nl": "Wasmiddelen", "keywords": ["wasmiddel", "wasverzachter", "pods", "vloeibaar", "poeder", "ariel", "persil", "robijn", "witte reus", "dreft"]},
+        "papier": {"name_nl": "Papier & Verpakkingen", "keywords": ["toiletpapier", "keukenpapier", "tissues", "zakdoeken", "vuilniszak", "folie", "bakpapier", "huishouddoekjes", "page"]},
+        "huisdier": {"name_nl": "Huisdieren", "keywords": ["hondenvoer", "kattenvoer", "kattenbak", "vogelvoer", "huisdier", "hond", "kat", "dierenvoeding", "diepvries dierenvoeding", "snack hond", "snack kat"]}
+      }
+    },
+
+    "baby_kind": {
+      "name_nl": "Baby & Kind",
+      "name_en": "Baby & Kids",
+      "icon": "👶",
+      "subcategories": {
+        "luiers": {"name_nl": "Luiers & Doekjes", "keywords": ["luier", "pampers", "billendoekjes", "babyluier"]},
+        "voeding": {"name_nl": "Babyvoeding", "keywords": ["babyvoeding", "flesvoeding", "fruithapje", "groentehapje", "pap"]},
+        "verzorging": {"name_nl": "Babyverzorging", "keywords": ["babyzalf", "babyolie", "babyshampoo", "babylotion"]}
+      }
+    }
+  },
+
+  "special_labels": {
+    "vegetarian": {"name_nl": "Vegetarisch", "keywords": ["vegetarisch", "veggie", "vega"]},
+    "vegan": {"name_nl": "Veganistisch", "keywords": ["vegan", "plantaardig", "plant-based"]},
+    "biological": {"name_nl": "Biologisch", "keywords": ["bio", "biologisch", "organic", "eko"]},
+    "glutenfree": {"name_nl": "Glutenvrij", "keywords": ["glutenvrij", "gluten free"]},
+    "lactosefree": {"name_nl": "Lactosevrij", "keywords": ["lactosevrij", "lactose free"]}
+  }
+}

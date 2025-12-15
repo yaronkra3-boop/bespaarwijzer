@@ -1,0 +1,116 @@
+{
+  "total_products": 515,
+  "categories_verified": 12,
+  "reports": [
+    {
+      "category_id": "vlees",
+      "category_name": "Vlees",
+      "total_products": 51,
+      "flagged_products": [],
+      "summary": "0 of 51 products flagged for review"
+    },
+    {
+      "category_id": "vis",
+      "category_name": "Vis & Zeevruchten",
+      "total_products": 18,
+      "flagged_products": [],
+      "summary": "0 of 18 products flagged for review"
+    },
+    {
+      "category_id": "zuivel",
+      "category_name": "Zuivel & Eieren",
+      "total_products": 40,
+      "flagged_products": [],
+      "summary": "0 of 40 products flagged for review"
+    },
+    {
+      "category_id": "groente_fruit",
+      "category_name": "Groente & Fruit",
+      "total_products": 53,
+      "flagged_products": [],
+      "summary": "0 of 53 products flagged for review"
+    },
+    {
+      "category_id": "brood_bakkerij",
+      "category_name": "Brood & Bakkerij",
+      "total_products": 34,
+      "flagged_products": [
+        {
+          "name": "AH Excellent Sneeuwpop slofjes kokos witte chocolade",
+          "original_category": "Kerst",
+          "suspicious_keywords": [
+            "chocolade"
+          ],
+          "reason": "Contains ['chocolade'] but no valid brood_bakkerij keywords"
+        }
+      ],
+      "summary": "1 of 34 products flagged for review"
+    },
+    {
+      "category_id": "dranken",
+      "category_name": "Dranken",
+      "total_products": 171,
+      "flagged_products": [],
+      "summary": "0 of 171 products flagged for review"
+    },
+    {
+      "category_id": "diepvries",
+      "category_name": "Diepvries",
+      "total_products": 16,
+      "flagged_products": [],
+      "summary": "0 of 16 products flagged for review"
+    },
+    {
+      "category_id": "conserven_houdbaar",
+      "category_name": "Conserven & Houdbaar",
+      "total_products": 50,
+      "flagged_products": [
+        {
+          "name": "Verspakket van de maand ",
+          "original_category": "Maaltijden, salades & tapas/Verse maaltijden",
+          "suspicious_keywords": [
+            "vers"
+          ],
+          "reason": "Contains ['vers'] but no valid conserven_houdbaar keywords"
+        },
+        {
+          "name": "Verstegen",
+          "original_category": "Conserven, soepen, sauzen, oliën",
+          "suspicious_keywords": [
+            "vers"
+          ],
+          "reason": "Contains ['vers'] but no valid conserven_houdbaar keywords"
+        }
+      ],
+      "summary": "2 of 50 products flagged for review"
+    },
+    {
+      "category_id": "snoep_snacks",
+      "category_name": "Snoep & Snacks",
+      "total_products": 39,
+      "flagged_products": [],
+      "summary": "0 of 39 products flagged for review"
+    },
+    {
+      "category_id": "verzorging",
+      "category_name": "Verzorging",
+      "total_products": 15,
+      "flagged_products": [],
+      "summary": "0 of 15 products flagged for review"
+    },
+    {
+      "category_id": "huishouden",
+      "category_name": "Huishouden",
+      "total_products": 25,
+      "flagged_products": [],
+      "summary": "0 of 25 products flagged for review"
+    },
+    {
+      "category_id": "baby_kind",
+      "category_name": "Baby & Kind",
+      "total_products": 1,
+      "flagged_products": [],
+      "summary": "0 of 1 products flagged for review"
+    }
+  ]
+}

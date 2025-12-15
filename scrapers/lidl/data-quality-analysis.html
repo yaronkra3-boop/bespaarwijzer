@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lidl Data Quality Analysis</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            padding: 24px;
+            color: #1a1a1a;
+        }
+        h1 { margin-bottom: 8px; }
+        .subtitle { color: #666; margin-bottom: 24px; }
+
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 16px;
+            margin-bottom: 32px;
+        }
+        .stat-card {
+            background: white;
+            padding: 16px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .stat-value { font-size: 28px; font-weight: 700; color: #0066cc; }
+        .stat-label { font-size: 12px; color: #666; text-transform: uppercase; }
+        .stat-bad .stat-value { color: #dc2626; }
+        .stat-good .stat-value { color: #16a34a; }
+
+        .section { margin-bottom: 32px; }
+        .section h2 { margin-bottom: 16px; border-bottom: 2px solid #0066cc; padding-bottom: 8px; }
+
+        .product-grid {
+            display: grid;
+            gap: 16px;
+        }
+        .product-card {
+            background: white;
+            border-radius: 8px;
+            padding: 16px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            display: grid;
+            grid-template-columns: 80px 1fr;
+            gap: 16px;
+        }
+        .product-card img {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            border-radius: 4px;
+            background: #f9f9f9;
+        }
+        .product-info h3 { font-size: 16px; margin-bottom: 8px; }
+        .product-fields {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 8px;
+            font-size: 13px;
+        }
+        .field { display: flex; gap: 8px; }
+        .field-label { color: #666; min-width: 100px; }
+        .field-value { font-weight: 500; }
+        .field-value.missing { color: #dc2626; font-style: italic; }
+        .field-value.present { color: #16a34a; }
+
+        .issues-list {
+            background: #fef2f2;
+            border: 1px solid #fecaca;
+            border-radius: 8px;
+            padding: 16px;
+        }
+        .issues-list h3 { color: #dc2626; margin-bottom: 12px; }
+        .issues-list ul { margin-left: 20px; }
+        .issues-list li { margin-bottom: 8px; }
+
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .comparison-table th, .comparison-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        .comparison-table th { background: #f5f5f5; font-weight: 600; }
+        .comparison-table tr:last-child td { border-bottom: none; }
+
+        .badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+        .badge-red { background: #fef2f2; color: #dc2626; }
+        .badge-green { background: #f0fdf4; color: #16a34a; }
+        .badge-yellow { background: #fefce8; color: #ca8a04; }
+    </style>
+</head>
+<body>
+    <h1>Lidl Data Quality Analysis</h1>
+    <p class="subtitle">Week 51-2025 | Source: supermarktaanbiedingen.com | 56 products</p>
+
+    <div class="summary-grid">
+        <div class="stat-card">
+            <div class="stat-value">56</div>
+            <div class="stat-label">Total Products</div>
+        </div>
+        <div class="stat-card stat-bad">
+            <div class="stat-value">16</div>
+            <div class="stat-label">Missing Price (29%)</div>
+        </div>
+        <div class="stat-card stat-bad">
+            <div class="stat-value">56</div>
+            <div class="stat-label">Missing Brand (100%)</div>
+        </div>
+        <div class="stat-card stat-good">
+            <div class="stat-value">8</div>
+            <div class="stat-label">With Discount %</div>
+        </div>
+        <div class="stat-card stat-bad">
+            <div class="stat-value">14</div>
+            <div class="stat-label">"Overig" Category</div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Key Issues Identified</h2>
+        <div class="issues-list">
+            <h3>Data Quality Problems</h3>
+            <ul>
+                <li><strong>No brand extraction</strong> - All 56 products have empty brand field. Other supermarkets extract brands like "Calvé", "Heineken", etc.</li>
+                <li><strong>29% missing prices</strong> - 16 products have null price. These are likely "group offers" or products without specific pricing on the source.</li>
+                <li><strong>Wrong categories</strong> - "Glühwein" in Zuivel & Eieren, "Heineken" in Zuivel & Eieren, many items in "Overig"</li>
+                <li><strong>No unit size extraction</strong> - Size info is in the URL/name but not extracted as structured data</li>
+                <li><strong>Small image URLs</strong> - Only 100x100 thumbnails, not full product images</li>
+                <li><strong>Third-party source</strong> - Uses supermarktaanbiedingen.com instead of Lidl directly</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>10 Sample Products - Varying Data Quality</h2>
+        <div class="product-grid">
+
+            <!-- Product 1: Good data -->
+            <div class="product-card">
+                <img src="https://i.supermarktaanbiedingen.com/uU74ID5Ycm1jKRWPibyAnEs8jxY=/fit-in/100x100//public/images/discount/2025/51/1339273.webp" alt="Fruityoghurt">
+                <div class="product-info">
+                    <h3>Fruityoghurt Griekse style <span class="badge badge-green">Best Data</span></h3>
+                    <div class="product-fields">
+                        <div class="field"><span class="field-label">Price:</span><span class="field-value present">€1.99</span></div>
+                        <div class="field"><span class="field-label">Original:</span><span class="field-value present">€2.49</span></div>
+                        <div class="field"><span class="field-label">Discount:</span><span class="field-value present">-20%</span></div>
+                        <div class="field"><span class="field-label">Brand:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Category:</span><span class="field-value">Groente & Fruit ❌</span></div>
+                        <div class="field"><span class="field-label">Unit Size:</span><span class="field-value missing">1 kilo (in URL only)</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 2: Has price but wrong category -->
+            <div class="product-card">
+                <img src="https://i.supermarktaanbiedingen.com/N8ednk9EAgPRP6TbjBwd6-Kml4w=/fit-in/100x100//public/images/discount/2025/51/1339306.webp" alt="Heineken">
+                <div class="product-info">
+                    <h3>Heineken of Affligem blond <span class="badge badge-yellow">Wrong Category</span></h3>
+                    <div class="product-fields">
+                        <div class="field"><span class="field-label">Price:</span><span class="field-value present">€2.99</span></div>
+                        <div class="field"><span class="field-label">Original:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Discount:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Brand:</span><span class="field-value missing">Missing (should be Heineken/Affligem)</span></div>
+                        <div class="field"><span class="field-label">Category:</span><span class="field-value">Zuivel & Eieren ❌ (should be Dranken)</span></div>
+                        <div class="field"><span class="field-label">Unit Size:</span><span class="field-value missing">6 x 0.33L (in URL only)</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 3: Missing price completely -->
+            <div class="product-card">
+                <img src="https://i.supermarktaanbiedingen.com/zRoUUDF_xU5cPlAkpxRpfRMM7qw=/fit-in/100x100//public/images/discount/2025/51/1339263.webp" alt="Avocado">
+                <div class="product-info">
+                    <h3>Avocado ready to eat <span class="badge badge-red">No Price</span></h3>
+                    <div class="product-fields">
+                        <div class="field"><span class="field-label">Price:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Original:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Discount:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Brand:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Category:</span><span class="field-value present">Groente & Fruit ✓</span></div>
+                        <div class="field"><span class="field-label">Unit Size:</span><span class="field-value missing">Missing</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 4: Good discount data -->
+            <div class="product-card">
+                <img src="https://i.supermarktaanbiedingen.com/ohW3vc4qTju2TYUFAPSMfUIE1nU=/fit-in/100x100//public/images/discount/2025/51/1339277.webp" alt="Kaiserbroodje">
+                <div class="product-info">
+                    <h3>Kaiserbroodje <span class="badge badge-green">Has Discount</span></h3>
+                    <div class="product-fields">
+                        <div class="field"><span class="field-label">Price:</span><span class="field-value present">€0.19</span></div>
+                        <div class="field"><span class="field-label">Original:</span><span class="field-value present">€0.28</span></div>
+                        <div class="field"><span class="field-label">Discount:</span><span class="field-value present">-32%</span></div>
+                        <div class="field"><span class="field-label">Brand:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Category:</span><span class="field-value present">Brood & Gebak ✓</span></div>
+                        <div class="field"><span class="field-label">Unit Size:</span><span class="field-value missing">per stuk (in URL only)</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 5: Overig category -->
+            <div class="product-card">
+                <img src="https://i.supermarktaanbiedingen.com/zuLKJMa8qIVxAqRGbkdyvXXfuO0=/fit-in/100x100//public/images/discount/2025/51/1339265.webp" alt="Roerbakmixen">
+                <div class="product-info">
+                    <h3>Alle roerbakmixen <span class="badge badge-red">Overig Category</span></h3>
+                    <div class="product-fields">
+                        <div class="field"><span class="field-label">Price:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Original:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Discount:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Brand:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Category:</span><span class="field-value">Overig ❌</span></div>
+                        <div class="field"><span class="field-label">Unit Size:</span><span class="field-value missing">Missing</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 6: Branded product without brand -->
+            <div class="product-card">
+                <img src="https://i.supermarktaanbiedingen.com/lR9UmpGO4IWgrEOdsIf-Ea4kMfE=/fit-in/100x100//public/images/discount/2025/51/1339295.webp" alt="Calvé">
+                <div class="product-info">
+                    <h3>Calvé mayonaise <span class="badge badge-yellow">Brand in Name</span></h3>
+                    <div class="product-fields">
+                        <div class="field"><span class="field-label">Price:</span><span class="field-value present">€1.89</span></div>
+                        <div class="field"><span class="field-label">Original:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Discount:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Brand:</span><span class="field-value missing">Missing (Calvé in name)</span></div>
+                        <div class="field"><span class="field-label">Category:</span><span class="field-value present">Houdbaar ✓</span></div>
+                        <div class="field"><span class="field-label">Unit Size:</span><span class="field-value missing">430ml (in URL only)</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 7: Wine in wrong category -->
+            <div class="product-card">
+                <img src="https://i.supermarktaanbiedingen.com/OYkU9IDkbE_vEJIa-K5oM-_1rhI=/fit-in/100x100//public/images/discount/2025/51/1339305.webp" alt="Glühwein">
+                <div class="product-info">
+                    <h3>Glühwein <span class="badge badge-red">Very Wrong Category</span></h3>
+                    <div class="product-fields">
+                        <div class="field"><span class="field-label">Price:</span><span class="field-value present">€2.01</span></div>
+                        <div class="field"><span class="field-label">Original:</span><span class="field-value present">€2.69</span></div>
+                        <div class="field"><span class="field-label">Discount:</span><span class="field-value present">-25%</span></div>
+                        <div class="field"><span class="field-label">Brand:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Category:</span><span class="field-value">Zuivel & Eieren ❌ (should be Dranken)</span></div>
+                        <div class="field"><span class="field-label">Unit Size:</span><span class="field-value missing">1L (in URL only)</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 8: XXL product -->
+            <div class="product-card">
+                <img src="https://i.supermarktaanbiedingen.com/Ea_JU9f4qI34n9AlYUGEbftsDFk=/fit-in/100x100//public/images/discount/2025/51/1339286.webp" alt="Cashewnoten">
+                <div class="product-info">
+                    <h3>Cashewnoten XXL <span class="badge badge-yellow">Overig Category</span></h3>
+                    <div class="product-fields">
+                        <div class="field"><span class="field-label">Price:</span><span class="field-value present">€4.99</span></div>
+                        <div class="field"><span class="field-label">Original:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Discount:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Brand:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Category:</span><span class="field-value">Overig ❌ (should be Snacks)</span></div>
+                        <div class="field"><span class="field-label">Unit Size:</span><span class="field-value missing">500g (in URL only)</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 9: Fish product -->
+            <div class="product-card">
+                <img src="https://i.supermarktaanbiedingen.com/7FEiFXcbEGqyCO0lxVvBJrW4tZo=/fit-in/100x100//public/images/discount/2025/51/1339266.webp" alt="Gerookte zalm">
+                <div class="product-info">
+                    <h3>Gerookte zalm XXL <span class="badge badge-green">Good Category</span></h3>
+                    <div class="product-fields">
+                        <div class="field"><span class="field-label">Price:</span><span class="field-value present">€5.99</span></div>
+                        <div class="field"><span class="field-label">Original:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Discount:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Brand:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Category:</span><span class="field-value present">Vlees & Vis ✓</span></div>
+                        <div class="field"><span class="field-label">Unit Size:</span><span class="field-value missing">300g (in URL only)</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 10: Coca-Cola -->
+            <div class="product-card">
+                <img src="https://i.supermarktaanbiedingen.com/LF9NHz_owXGoe2mFcWTzrXayshM=/fit-in/100x100//public/images/discount/2025/51/1339269.webp" alt="Coca-Cola">
+                <div class="product-info">
+                    <h3>Coca-Cola <span class="badge badge-yellow">Missing Brand Field</span></h3>
+                    <div class="product-fields">
+                        <div class="field"><span class="field-label">Price:</span><span class="field-value present">€1.99</span></div>
+                        <div class="field"><span class="field-label">Original:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Discount:</span><span class="field-value missing">Missing</span></div>
+                        <div class="field"><span class="field-label">Brand:</span><span class="field-value missing">Missing (Coca-Cola is the brand)</span></div>
+                        <div class="field"><span class="field-label">Category:</span><span class="field-value present">Dranken ✓</span></div>
+                        <div class="field"><span class="field-label">Unit Size:</span><span class="field-value missing">2 liter (in URL only)</span></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Comparison with Other Supermarkets</h2>
+        <table class="comparison-table">
+            <thead>
+                <tr>
+                    <th>Field</th>
+                    <th>Lidl</th>
+                    <th>Albert Heijn</th>
+                    <th>Jumbo</th>
+                    <th>Dirk</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Products</td>
+                    <td>56</td>
+                    <td>160</td>
+                    <td>1057</td>
+                    <td>406</td>
+                </tr>
+                <tr>
+                    <td>Has Price</td>
+                    <td><span class="badge badge-yellow">71%</span></td>
+                    <td><span class="badge badge-green">100%</span></td>
+                    <td><span class="badge badge-green">100%</span></td>
+                    <td><span class="badge badge-green">~95%</span></td>
+                </tr>
+                <tr>
+                    <td>Has Brand</td>
+                    <td><span class="badge badge-red">0%</span></td>
+                    <td><span class="badge badge-green">~90%</span></td>
+                    <td><span class="badge badge-green">100%</span></td>
+                    <td><span class="badge badge-green">~87%</span></td>
+                </tr>
+                <tr>
+                    <td>Has Original Price</td>
+                    <td><span class="badge badge-red">14%</span></td>
+                    <td><span class="badge badge-green">~80%</span></td>
+                    <td><span class="badge badge-green">100%</span></td>
+                    <td><span class="badge badge-green">~70%</span></td>
+                </tr>
+                <tr>
+                    <td>Has Unit Size</td>
+                    <td><span class="badge badge-red">0%</span></td>
+                    <td><span class="badge badge-green">Yes</span></td>
+                    <td><span class="badge badge-green">Yes</span></td>
+                    <td><span class="badge badge-green">Yes</span></td>
+                </tr>
+                <tr>
+                    <td>Category Quality</td>
+                    <td><span class="badge badge-red">Poor</span></td>
+                    <td><span class="badge badge-green">Good</span></td>
+                    <td><span class="badge badge-green">Good</span></td>
+                    <td><span class="badge badge-green">Good</span></td>
+                </tr>
+                <tr>
+                    <td>Source</td>
+                    <td>3rd party site</td>
+                    <td>AH API</td>
+                    <td>Jumbo API</td>
+                    <td>Dirk website</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Recommended Improvements</h2>
+        <div style="background: white; padding: 20px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+            <ol style="margin-left: 20px; line-height: 2;">
+                <li><strong>Find Lidl's direct API</strong> - Like AH and Jumbo, Lidl might have an internal API with richer data</li>
+                <li><strong>Scrape Lidl.nl directly</strong> - The folder page at lidl.nl/l/folders/ may have more structured data</li>
+                <li><strong>Extract brand from product name</strong> - Parse "Calvé mayonaise" → brand: "Calvé", name: "Mayonaise"</li>
+                <li><strong>Extract unit size from URL</strong> - Parse "calve-mayonaise-430-ml" → unit_size: "430ml"</li>
+                <li><strong>Fix category mapping</strong> - Map source categories better (drinks shouldn't be in Zuivel)</li>
+                <li><strong>Get larger images</strong> - Request larger image sizes or find alternative source</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Current Scraper Source</h2>
+        <div style="background: #1e1e1e; color: #d4d4d4; padding: 16px; border-radius: 8px; font-family: 'Monaco', 'Menlo', monospace; font-size: 13px; overflow-x: auto;">
+            <div style="color: #6a9955;">// Current source: supermarktaanbiedingen.com</div>
+            <div style="color: #6a9955;">// File: bespaarwijzer/scrapers/lidl/extract.py</div>
+            <br>
+            <div>source_url: <span style="color: #ce9178;">"https://www.supermarktaanbiedingen.com/aanbiedingen/lidl"</span></div>
+            <br>
+            <div style="color: #6a9955;">// Alternative sources to investigate:</div>
+            <div>1. <span style="color: #ce9178;">https://www.lidl.nl/l/folders/</span> - Official folder page</div>
+            <div>2. <span style="color: #ce9178;">https://www.lidl.nl/q/api/</span> - Potential API endpoint</div>
+            <div>3. <span style="color: #ce9178;">Network inspection of lidl.nl</span> - Find internal APIs</div>
+        </div>
+    </div>
+
+    <p style="margin-top: 32px; color: #666; font-size: 12px;">
+        Generated: 2025-12-15 | Analysis for Lidl scraper improvement ticket
+    </p>
+</body>
+</html>

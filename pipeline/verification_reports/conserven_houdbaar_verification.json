@@ -1,0 +1,24 @@
+{
+  "category_id": "conserven_houdbaar",
+  "category_name": "Conserven & Houdbaar",
+  "total_products": 50,
+  "flagged_products": [
+    {
+      "name": "Verspakket van de maand ",
+      "original_category": "Maaltijden, salades & tapas/Verse maaltijden",
+      "suspicious_keywords": [
+        "vers"
+      ],
+      "reason": "Contains ['vers'] but no valid conserven_houdbaar keywords"
+    },
+    {
+      "name": "Verstegen",
+      "original_category": "Conserven, soepen, sauzen, oliën",
+      "suspicious_keywords": [
+        "vers"
+      ],
+      "reason": "Contains ['vers'] but no valid conserven_houdbaar keywords"
+    }
+  ],
+  "summary": "2 of 50 products flagged for review"
+}

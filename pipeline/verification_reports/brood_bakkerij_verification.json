@@ -1,0 +1,16 @@
+{
+  "category_id": "brood_bakkerij",
+  "category_name": "Brood & Bakkerij",
+  "total_products": 34,
+  "flagged_products": [
+    {
+      "name": "AH Excellent Sneeuwpop slofjes kokos witte chocolade",
+      "original_category": "Kerst",
+      "suspicious_keywords": [
+        "chocolade"
+      ],
+      "reason": "Contains ['chocolade'] but no valid brood_bakkerij keywords"
+    }
+  ],
+  "summary": "1 of 34 products flagged for review"
+}

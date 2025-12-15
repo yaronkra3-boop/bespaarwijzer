@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BespaarWijzer Pipeline Flow</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+            color: #fff;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #00d4ff, #7c3aed);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #94a3b8;
+            margin-bottom: 40px;
+            font-size: 1.1rem;
+        }
+
+        .command-box {
+            background: #0f172a;
+            border: 2px solid #3b82f6;
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .command-box code {
+            font-family: 'SF Mono', Monaco, monospace;
+            font-size: 1.3rem;
+            color: #22c55e;
+        }
+
+        .command-box p {
+            color: #94a3b8;
+            margin-top: 10px;
+        }
+
+        .flow-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .step {
+            display: flex;
+            align-items: stretch;
+            gap: 20px;
+        }
+
+        .step-number {
+            width: 60px;
+            min-width: 60px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .step-circle {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        .step-line {
+            width: 4px;
+            flex-grow: 1;
+            margin-top: 10px;
+        }
+
+        .step-content {
+            flex-grow: 1;
+            background: #1e293b;
+            border-radius: 16px;
+            padding: 25px;
+            border: 1px solid #334155;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .step-content:hover {
+            transform: translateX(5px);
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .step-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .step-icon {
+            font-size: 2rem;
+        }
+
+        .step-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+        }
+
+        .step-description {
+            color: #94a3b8;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        .files-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+        }
+
+        .file-item {
+            background: #0f172a;
+            padding: 10px 15px;
+            border-radius: 8px;
+            font-family: 'SF Mono', Monaco, monospace;
+            font-size: 0.85rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .file-icon {
+            opacity: 0.7;
+        }
+
+        /* Step colors */
+        .step-1 .step-circle { background: #ef4444; }
+        .step-1 .step-line { background: linear-gradient(to bottom, #ef4444, #f97316); }
+        .step-1 .step-content { border-left: 4px solid #ef4444; }
+
+        .step-2 .step-circle { background: #f97316; }
+        .step-2 .step-line { background: linear-gradient(to bottom, #f97316, #eab308); }
+        .step-2 .step-content { border-left: 4px solid #f97316; }
+
+        .step-3 .step-circle { background: #eab308; }
+        .step-3 .step-line { background: linear-gradient(to bottom, #eab308, #22c55e); }
+        .step-3 .step-content { border-left: 4px solid #eab308; }
+
+        .step-4 .step-circle { background: #22c55e; }
+        .step-4 .step-line { background: linear-gradient(to bottom, #22c55e, #3b82f6); }
+        .step-4 .step-content { border-left: 4px solid #22c55e; }
+
+        .step-5 .step-circle { background: #3b82f6; }
+        .step-5 .step-line { background: linear-gradient(to bottom, #3b82f6, #8b5cf6); }
+        .step-5 .step-content { border-left: 4px solid #3b82f6; }
+
+        .step-6 .step-circle { background: #8b5cf6; }
+        .step-6 .step-content { border-left: 4px solid #8b5cf6; }
+
+        .supermarkets {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .supermarket {
+            background: linear-gradient(135deg, #1e40af, #7c3aed);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+
+        .arrow-down {
+            text-align: center;
+            font-size: 2rem;
+            color: #64748b;
+            margin: 5px 0;
+        }
+
+        .data-flow {
+            background: #0f172a;
+            border-radius: 12px;
+            padding: 15px;
+            margin-top: 10px;
+        }
+
+        .data-flow-title {
+            font-size: 0.8rem;
+            color: #64748b;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        .data-flow-content {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .data-count {
+            background: #22c55e;
+            color: #000;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        .legend {
+            margin-top: 40px;
+            background: #1e293b;
+            border-radius: 16px;
+            padding: 25px;
+        }
+
+        .legend h3 {
+            margin-bottom: 15px;
+            color: #e2e8f0;
+        }
+
+        .legend-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 15px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+        }
+
+        .legend-icon {
+            font-size: 1.5rem;
+        }
+
+        .legend-text h4 {
+            font-size: 0.95rem;
+            margin-bottom: 4px;
+        }
+
+        .legend-text p {
+            font-size: 0.85rem;
+            color: #94a3b8;
+        }
+
+        @media (max-width: 768px) {
+            .step {
+                flex-direction: column;
+            }
+            .step-number {
+                flex-direction: row;
+                width: 100%;
+                gap: 10px;
+            }
+            .step-line {
+                height: 4px;
+                width: auto;
+                flex-grow: 1;
+                margin-top: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>BespaarWijzer Pipeline</h1>
+        <p class="subtitle">Complete data flow from update.sh to your live website</p>
+
+        <div class="command-box">
+            <code>./update.sh --deploy</code>
+            <p>This single command triggers the entire pipeline below</p>
+        </div>
+
+        <div class="flow-container">
+            <!-- Step 1: Scraping -->
+            <div class="step step-1">
+                <div class="step-number">
+                    <div class="step-circle">1</div>
+                    <div class="step-line"></div>
+                </div>
+                <div class="step-content">
+                    <div class="step-header">
+                        <span class="step-icon">🕷️</span>
+                        <span class="step-title">Web Scraping</span>
+                    </div>
+                    <p class="step-description">
+                        Each supermarket has its own Python extractor that fetches weekly deals from the store's website.
+                        The scrapers extract product names, prices, discounts, images, and categories.
+                    </p>
+                    <div class="supermarkets">
+                        <span class="supermarket">🔵 Albert Heijn</span>
+                        <span class="supermarket">🟠 Dirk</span>
+                        <span class="supermarket">🟡 Jumbo</span>
+                        <span class="supermarket">🔴 Lidl</span>
+                        <span class="supermarket">🟢 Hoogvliet</span>
+                    </div>
+                    <div class="data-flow">
+                        <div class="data-flow-title">Output per store</div>
+                        <div class="files-grid">
+                            <div class="file-item"><span class="file-icon">📄</span> folder_data.json</div>
+                            <div class="file-item"><span class="file-icon">📦</span> archive/week_XX.json</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 2: Aggregation -->
+            <div class="step step-2">
+                <div class="step-number">
+                    <div class="step-circle">2</div>
+                    <div class="step-line"></div>
+                </div>
+                <div class="step-content">
+                    <div class="step-header">
+                        <span class="step-icon">🔄</span>
+                        <span class="step-title">Aggregation</span>
+                    </div>
+                    <p class="step-description">
+                        <code>aggregate.py</code> combines all 5 supermarket JSON files into one unified dataset.
+                        It normalizes field names, adds supermarket identifiers, and merges everything.
+                    </p>
+                    <div class="data-flow">
+                        <div class="data-flow-title">Data transformation</div>
+                        <div class="data-flow-content">
+                            <span>5 separate files</span>
+                            <span>→</span>
+                            <span class="data-count">~2,500 products</span>
+                            <span>→</span>
+                            <span>1 unified JSON</span>
+                        </div>
+                    </div>
+                    <div class="files-grid" style="margin-top: 10px;">
+                        <div class="file-item"><span class="file-icon">📄</span> pipeline/output/aggregated_data.json</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 3: Transform -->
+            <div class="step step-3">
+                <div class="step-number">
+                    <div class="step-circle">3</div>
+                    <div class="step-line"></div>
+                </div>
+                <div class="step-content">
+                    <div class="step-header">
+                        <span class="step-icon">⚡</span>
+                        <span class="step-title">Transform</span>
+                    </div>
+                    <p class="step-description">
+                        <code>transform.py</code> converts raw product data into grouped offers optimized for the UI.
+                        It groups product variants, calculates savings, and generates validity dates.
+                    </p>
+                    <div class="data-flow">
+                        <div class="data-flow-title">Output files</div>
+                        <div class="files-grid">
+                            <div class="file-item"><span class="file-icon">📦</span> app/products.json</div>
+                            <div class="file-item"><span class="file-icon">📅</span> app/folder-validity.json</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 4: Copy to Deploy Folder -->
+            <div class="step step-4">
+                <div class="step-number">
+                    <div class="step-circle">4</div>
+                    <div class="step-line"></div>
+                </div>
+                <div class="step-content">
+                    <div class="step-header">
+                        <span class="step-icon">📋</span>
+                        <span class="step-title">Copy to Deploy Folder</span>
+                    </div>
+                    <p class="step-description">
+                        The script copies <code>products.json</code> and <code>folder-validity.json</code>
+                        to your GitHub repository folder on the Desktop.
+                    </p>
+                    <div class="files-grid">
+                        <div class="file-item"><span class="file-icon">📁</span> ~/Desktop/bespaarwijzer/</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 5: Git Push -->
+            <div class="step step-5">
+                <div class="step-number">
+                    <div class="step-circle">5</div>
+                    <div class="step-line"></div>
+                </div>
+                <div class="step-content">
+                    <div class="step-header">
+                        <span class="step-icon">🚀</span>
+                        <span class="step-title">Git Push to GitHub</span>
+                    </div>
+                    <p class="step-description">
+                        The script automatically commits and pushes changes to GitHub:
+                        <code>git add . && git commit && git push</code>
+                    </p>
+                    <div class="data-flow">
+                        <div class="data-flow-title">Git commands</div>
+                        <div class="data-flow-content">
+                            <code style="color: #94a3b8;">git add . → git commit → git push</code>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 6: Vercel Deploy -->
+            <div class="step step-6">
+                <div class="step-number">
+                    <div class="step-circle">6</div>
+                </div>
+                <div class="step-content">
+                    <div class="step-header">
+                        <span class="step-icon">🌐</span>
+                        <span class="step-title">Vercel Auto-Deploy</span>
+                    </div>
+                    <p class="step-description">
+                        Vercel watches your GitHub repo. When it detects the push, it automatically
+                        deploys your updated website. This takes about 30-60 seconds.
+                    </p>
+                    <div class="data-flow">
+                        <div class="data-flow-title">Live URL</div>
+                        <div class="data-flow-content">
+                            <span class="data-count">✨ bespaarwijzer.vercel.app</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Legend -->
+        <div class="legend">
+            <h3>📁 Folder Structure</h3>
+            <div class="legend-grid">
+                <div class="legend-item">
+                    <span class="legend-icon">🕷️</span>
+                    <div class="legend-text">
+                        <h4>/scrapers/{store}/</h4>
+                        <p>Each supermarket's extract.py + folder_data.json + archive/</p>
+                    </div>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-icon">⚙️</span>
+                    <div class="legend-text">
+                        <h4>/pipeline/</h4>
+                        <p>aggregate.py, transform.py, price_tracker.py</p>
+                    </div>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-icon">🖥️</span>
+                    <div class="legend-text">
+                        <h4>/app/</h4>
+                        <p>index.html, products.json, folder-validity.json</p>
+                    </div>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-icon">📚</span>
+                    <div class="legend-text">
+                        <h4>/docs/</h4>
+                        <p>All documentation including this diagram</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="command-box" style="margin-top: 30px; border-color: #22c55e;">
+            <p style="margin-bottom: 10px; color: #e2e8f0;">Total time from command to live website:</p>
+            <code style="font-size: 2rem;">~3-5 minutes</code>
+            <p>Scraping: ~2 min | Aggregate+Transform: ~10 sec | Deploy: ~1 min</p>
+        </div>
+    </div>
+</body>
+</html>
