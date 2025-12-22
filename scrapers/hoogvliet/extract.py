@@ -36,8 +36,67 @@ def get_current_folder_slug():
     return None
 
 
+def parse_validity_from_description(description):
+    """Parse validity dates from folder description.
+
+    Examples:
+    - "Aanbiedingen geldig van woensdag 17 t/m vrijdag 26 december."
+    - "Aanbiedingen geldig van zaterdag 27 december 2025 t/m donderdag 1 januari 2025."
+    """
+    if not description:
+        return None, None
+
+    # Dutch month names to numbers
+    months = {
+        'januari': 1, 'februari': 2, 'maart': 3, 'april': 4,
+        'mei': 5, 'juni': 6, 'juli': 7, 'augustus': 8,
+        'september': 9, 'oktober': 10, 'november': 11, 'december': 12
+    }
+
+    # Pattern: "van [dag] DD [maand] [jaar] t/m [dag] DD [maand] [jaar]"
+    # Also handles: "van [dag] DD t/m [dag] DD [maand]" (same month)
+    import re
+    from datetime import datetime
+
+    # Try full pattern with both months
+    pattern_full = r'van\s+\w+\s+(\d{1,2})\s+(\w+)(?:\s+(\d{4}))?\s+t/m\s+\w+\s+(\d{1,2})\s+(\w+)(?:\s+(\d{4}))?'
+    match = re.search(pattern_full, description.lower())
+
+    if match:
+        start_day = int(match.group(1))
+        start_month = months.get(match.group(2), 12)
+        start_year = int(match.group(3)) if match.group(3) else datetime.now().year
+        end_day = int(match.group(4))
+        end_month = months.get(match.group(5), 12)
+        end_year = int(match.group(6)) if match.group(6) else start_year
+
+        # Handle year rollover (december to january)
+        if end_month < start_month:
+            end_year = start_year + 1
+
+        start_date = f"{start_year}-{start_month:02d}-{start_day:02d}"
+        end_date = f"{end_year}-{end_month:02d}-{end_day:02d}"
+        return start_date, end_date
+
+    # Try pattern with same month: "van [dag] DD t/m [dag] DD [maand]"
+    pattern_same = r'van\s+\w+\s+(\d{1,2})\s+t/m\s+\w+\s+(\d{1,2})\s+(\w+)'
+    match = re.search(pattern_same, description.lower())
+
+    if match:
+        start_day = int(match.group(1))
+        end_day = int(match.group(2))
+        month = months.get(match.group(3), 12)
+        year = datetime.now().year
+
+        start_date = f"{year}-{month:02d}-{start_day:02d}"
+        end_date = f"{year}-{month:02d}-{end_day:02d}"
+        return start_date, end_date
+
+    return None, None
+
+
 def get_folder_info(slug):
-    """Get folder metadata including number of pages."""
+    """Get folder metadata including number of pages and validity dates."""
     data_url = f"{FOLDER_BASE_URL}/{slug}/data.json"
     response = requests.get(data_url, timeout=30)
     data = response.json()
@@ -50,10 +109,17 @@ def get_folder_info(slug):
         spreads = data.get('spreads', [])
         total_pages = sum(len(s.get('pages', [])) for s in spreads)
 
+    # Extract validity dates from description
+    description = data.get('config', {}).get('description', '')
+    start_date, end_date = parse_validity_from_description(description)
+
     return {
         'spreads': (total_pages + 1) // 2,  # Approximate number of spreads
         'total_pages': total_pages,
-        'data': data
+        'data': data,
+        'start_date': start_date,
+        'end_date': end_date,
+        'description': description
     }
 
 
@@ -370,6 +436,8 @@ def extract_hoogvliet_folder():
     # Get folder info
     folder_info = get_folder_info(slug)
     print(f"Folder has {folder_info['total_pages']} pages in {folder_info['spreads']} spreads")
+    if folder_info.get('start_date') and folder_info.get('end_date'):
+        print(f"Validity: {folder_info['start_date']} to {folder_info['end_date']}")
 
     # Get all product URLs from hotspots
     offer_urls = get_all_hotspot_urls(slug, folder_info['total_pages'])
@@ -411,6 +479,10 @@ def extract_hoogvliet_folder():
         'folder_week': folder_week,
         'extracted_at': datetime.now().isoformat(),
         'source_url': f'{FOLDER_BASE_URL}/{slug}/',
+        'validity': {
+            'start_date': folder_info.get('start_date'),
+            'end_date': folder_info.get('end_date')
+        },
         'product_count': len(products),
         'products': products
     }
@@ -419,12 +491,12 @@ def extract_hoogvliet_folder():
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    # Archive copy with week number
+    # Archive copy with folder's week number (not calendar week)
     import os
-    week_num = datetime.now().isocalendar()[1]
+    folder_week_num = week_match.group(2) if week_match else datetime.now().isocalendar()[1]
     archive_dir = os.path.dirname(OUTPUT_FILE) + '/archive'
     os.makedirs(archive_dir, exist_ok=True)
-    archive_file = f"{archive_dir}/folder_data_week_{week_num}_hoogvliet.json"
+    archive_file = f"{archive_dir}/folder_data_week_{folder_week_num}_hoogvliet.json"
     with open(archive_file, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 

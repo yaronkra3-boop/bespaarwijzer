@@ -110,27 +110,14 @@ def load_hoogvliet():
 
     products = []
 
-    # Hoogvliet folder week format is "week-50-2025", extract dates from folder URL or source
-    # The folder URL contains the week number which we can use to derive dates
+    # Get folder validity directly from scraper output (parsed from folder description)
+    validity_data = data.get('validity', {})
     folder_validity = None
-    source_url = data.get('source_url', '')
-    # Extract week from URL like "folder_2025_50" -> week 50 of 2025
-    if 'folder_' in source_url:
-        import re
-        match = re.search(r'folder_(\d{4})_(\d+)', source_url)
-        if match:
-            year, week = int(match.group(1)), int(match.group(2))
-            # Calculate week start/end dates (week starts on Monday in Netherlands)
-            from datetime import datetime, timedelta
-            # Get first day of the year and find the Monday of the given week
-            first_day = datetime(year, 1, 1)
-            # ISO week calculation
-            week_start = first_day + timedelta(days=(week - 1) * 7 - first_day.weekday())
-            week_end = week_start + timedelta(days=6)
-            folder_validity = {
-                'start_date': week_start.strftime('%Y-%m-%d'),
-                'end_date': week_end.strftime('%Y-%m-%d')
-            }
+    if validity_data and validity_data.get('start_date') and validity_data.get('end_date'):
+        folder_validity = {
+            'start_date': validity_data['start_date'],
+            'end_date': validity_data['end_date']
+        }
 
     for p in data.get('products', []):
         products.append({
