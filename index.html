@@ -4043,24 +4043,14 @@
             }
         }
 
-        // Calculate and display current week number from validity data
+        // Calculate and display current week number based on today's date
         function updateWeekBadge() {
-            if (!folderValidity || Object.keys(folderValidity).length === 0) return;
-
-            // Find the most common/recent end date to determine current week
-            const endDates = Object.values(folderValidity)
-                .map(v => v.end_date)
-                .filter(d => d);
-
-            if (endDates.length === 0) return;
-
-            // Use the latest end date to calculate the week
-            const latestDate = endDates.sort().pop();
-            const date = new Date(latestDate);
+            // Use today's date to calculate the current week
+            const today = new Date();
 
             // Calculate ISO week number
-            const tempDate = new Date(date.valueOf());
-            const dayNum = (date.getDay() + 6) % 7;
+            const tempDate = new Date(today.valueOf());
+            const dayNum = (today.getDay() + 6) % 7;
             tempDate.setDate(tempDate.getDate() - dayNum + 3);
             const firstThursday = tempDate.valueOf();
             tempDate.setMonth(0, 1);
